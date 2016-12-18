@@ -19,8 +19,7 @@ description: > # this means to ignore newlines until "baseurl:"
   UK Dynasty is a UK-only fantasy football dynasty league. Here you'll find our   blog, our bylaws, and more about the league.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.ukdynasty.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: ukdynasty
-github_username:  danabrey
+github_username:  ukdynasty
 
 # Build settings
 markdown: kramdown
