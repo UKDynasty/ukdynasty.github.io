@@ -5,7 +5,7 @@ permalink: /bylaws
 ---
 ## About this document
 
-This is the living, breathing bylaws document of the UK Dynasty league. Revision history from December 2016 onwards can be found [on GitHub](github.com/danabrey/blah). The original version of this document (with revision history from the start of the league) can be found [on Google Docs](http://bit.do/UKDynastyLeagueBylaws).
+This is the living, breathing bylaws document of the UK Dynasty league. Revision history from December 2016 onwards can be found [on GitHub](https://github.com/UKDynasty/ukdynasty.github.io/blob/master/bylaws/index.md). The original version of this document (with revision history from the start of the league) can be found [on Google Docs](http://bit.do/UKDynastyLeagueBylaws).
 
 - [Team setup](#team-setup)  
 - [Schedule](#schedule)  
