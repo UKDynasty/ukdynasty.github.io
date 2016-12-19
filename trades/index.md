@@ -4,6 +4,8 @@ title: Trades
 permalink: /trades
 ---
 
+Trades are kept track of on the master spreadsheet [on Google Sheets](http://bit.do/UKDynastyLeagueFutureDraftPickTrades). You'll also find there extra sheets that detail who currently owns each franchise's draft picks for future season. This page is intended to provide an overview of all trades within the league at a glance.
+
 ## 2016 season
 
 |            | Team A               | Gives up                                         | Team B               | Gives up                                  |
