@@ -23,7 +23,7 @@ github_username:  ukdynasty
 google_analytics: UA-89273293-1
 # Build settings
 markdown: kramdown
-theme: minima
+#theme: minima
 gems:
   - jekyll-feed
 exclude:
