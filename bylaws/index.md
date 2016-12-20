@@ -40,7 +40,9 @@ There will be a 13 week regular season - teams will play all 5 teams in their di
 The playoffs will run between weeks 14 and 16 of the NFL season.
 
 The winners of each division will receive a bye to the Regional Final. 2nd and 3rd spots will play off in the Regional Semi-Finals for the right to play in the Regional Final. The winners of each of the Regional Finals will face each other in the UK Dynasty Final.
+
 ## ROOKIE DRAFT
+
 There will be no separate rookie draft for the inaugural 2016 season. Rookies will be included in the initial startup draft. 
 
 From the second season and beyond, a 5-round rookie draft (slow email style) will be held starting approximately two weeks after the NFL draft, using the draft facility on MyFantasyLeague.com. Each team will have 1 draft pick for each round. These picks are tradeable during the season prior to that season’s draft (see TRADING, below). An 8 hour pick clock will be in use, with the clock paused between the hours of midnight and 5am.
