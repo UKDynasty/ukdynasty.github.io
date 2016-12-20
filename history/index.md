@@ -48,8 +48,8 @@ n/a
 **Most consecutive matchups won (regular season):**  8  
 (Taunton Donkeys, W3-W10 2016 & Coventry Eagles, W6-W13 2016)  
 
-**Most consecutive matchups won (including playoffs):**  
-10 (Coventry Eagles, W6-W15 2016)  
+**Most consecutive matchups won (including playoffs):**  10  
+(Coventry Eagles, W6-W15 2016)  
 
 **Most consecutive matchups lost (regular season):**  7  
 (Derby Wolverines, W5-W11 2016)  
