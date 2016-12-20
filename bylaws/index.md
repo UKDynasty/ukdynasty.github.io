@@ -57,17 +57,17 @@ Free agents will not be included in the rookie draft.
 
 Rookie draft pick order will be based on the final league and playoff standings, as follows.
 
-Pick 1: Non-playoff team with worst record
-Pick 2: Non-playoff team with 2nd worst record 
-Pick 3: Non-playoff team with 3rd worst record
-Pick 4: Non-playoff team with 4th worst record
-Pick 5: Non-playoff team with 5th worst record
-Pick 6: Non-playoff team with 6th worst record
-Pick 7: Regional Semi-Final loser with worst record 
-Pick 8: Regional Semi-Final loser with best record 
-Pick 9: Regional Final loser with worst record 
-Pick 10: Regional Final loser with best record 
-Pick 11: UK Dynasty Final losers 
+Pick 1: Non-playoff team with worst record  
+Pick 2: Non-playoff team with 2nd worst record   
+Pick 3: Non-playoff team with 3rd worst record  
+Pick 4: Non-playoff team with 4th worst record  
+Pick 5: Non-playoff team with 5th worst record  
+Pick 6: Non-playoff team with 6th worst record  
+Pick 7: Regional Semi-Final loser with worst record   
+Pick 8: Regional Semi-Final loser with best record   
+Pick 9: Regional Final loser with worst record   
+Pick 10: Regional Final loser with best record   
+Pick 11: UK Dynasty Final losers   
 Pick 12: UK Dynasty Final winners 
 
 Due to the divisions each putting 3 teams through to the playoffs, the “7th ranked team” may actually have a better record than the "6th ranked team".
