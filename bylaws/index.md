@@ -70,7 +70,7 @@ Pick 10: Regional Final loser with best record
 Pick 11: UK Dynasty Final losers 
 Pick 12: UK Dynasty Final winners 
 
-Due to the divisions each putting 3 teams through to the playoffs, the “7th ranked team” may actually have a better record than a team tha
+Due to the divisions each putting 3 teams through to the playoffs, the “7th ranked team” may actually have a better record than the "6th ranked team".
 
 In the event of any tie, the following tie-breakers shall be used, in order (roughly the same as for league standings, but ignoring head-to-head record and divisional record): 
 
