@@ -2,38 +2,22 @@
 
   <div class="wrapper">
 
-    <h2 class="footer-heading">{{ site.title | escape }}</h2>
+    <h2 class="footer-heading">ESPN League Quick Links</h2>
 
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
-          <li>
-            {% if site.author %}
-              {{ site.author | escape }}
-            {% else %}
-              {{ site.title | escape }}
-            {% endif %}
-            </li>
-            {% if site.email %}
-            <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {% endif %}
+          <li><a href="http://games.espn.com/ffl/leagueoffice?leagueId=7168&seasonId=2016">League Homepage</a></li>
+          <li><a href="http://games.espn.com/ffl/messageboard?leagueId=7168&typeId=0&topicId=0">Messageboard</a></li>
+          <li><a href="http://games.espn.com/ffl/scoreboard?leagueId=7168&seasonId=2016">Scoreboard</a></li>
+          <li><a href="http://games.espn.com/ffl/standings?leagueId=7168&seasonId=2016">Standings</a></li>
+          <li><a href="http://games.espn.com/ffl/tools/viewmessage?leagueId=7168&typeId=0&topicId=0&messageId=69">Report a Draft Pick Trade</a></li>
         </ul>
       </div>
 
       <div class="footer-col footer-col-2">
-        <ul class="social-media-list">
-          {% if site.github_username %}
-          <li>
-            {% include icon-github.html username=site.github_username %}
-          </li>
-          {% endif %}
-
-          {% if site.twitter_username %}
-          <li>
-            {% include icon-twitter.html username=site.twitter_username %}
-          </li>
-          {% endif %}
-        </ul>
+        <p>This website is managed and hosted on <a href="https://www.github.com">Github</a>:</p>
+        <p>{% include icon-github.html username=site.github_username %}</p>
       </div>
 
       <div class="footer-col footer-col-3">
