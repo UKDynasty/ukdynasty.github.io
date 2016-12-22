@@ -9,7 +9,7 @@ categories: previews
 
 Britannia Bowl I will be contested between the North and South title winners. From the South, the [Coventry Eagles](http://games.espn.com/ffl/clubhouse?leagueId=7168&teamId=9), shrewdly bossed throughout the season by Phil Aston. As the #1 overall seed, the Eagles had a bye through the wildcard round of the playoffs, and dispatched the Hereford Chargers to claim the South title, with a score of 136.6-104.
 
-The Eagles' Bowl opposition will be the North regional winners, Chris Copeland's [Gateshead Spartans](http://games.espn.com/ffl/clubhouse?leagueId=7168&teamId=3), who as the #4 seed and bereft of a bye, had to get through both the Wigan Wombats (97.1-90.2) and the #2 seeded Derby Otters (103.3-77.3) to scoop the North title and claim their place in the inaugural Brittania Bowl.
+The Eagles' Bowl opposition will be the North regional winners, Chris Copeland's [Gateshead Spartans](http://games.espn.com/ffl/clubhouse?leagueId=7168&teamId=3), who, as the #4 seed and bereft of a bye, had to get through both the Wigan Wombats (97.1-90.2) and the #2 seeded Derby Otters (103.3-77.3) to scoop the North title and claim their place in the inaugural Brittania Bowl.
 
 The current ESPN projections have the Eagles as around 11 point favourites, and, due to the Christmas Eve game schedule, a lot will be decided by the time Santa pumps his reindeer full of PEDs and sets off on his Christmas mission.
 
