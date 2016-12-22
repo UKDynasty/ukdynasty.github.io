@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Britannia Bowl Preview: Coventry Eagles v Gateshead Spartans'
-date: {}
+date: 2016-12-22T00:00:00.000Z
 categories: previews
 published: true
 ---
