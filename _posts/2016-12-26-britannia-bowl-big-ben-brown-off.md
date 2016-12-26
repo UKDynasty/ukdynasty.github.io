@@ -34,3 +34,5 @@ It's not just the actual point difference that increases - the percentage of the
 The underlying reason for all of this is the difference in points per yard for each position: 0.04 per QB passing yard, 0.1 per receiving yard.
 
 So, it may be obvious, but if you've got the receiver in a matchup against their QB, then you want long TD passes, and lots of them.
+
+**Britannia Bowl latest score:** Gateshead Spartans 115.1 - 123.4 Coventry Eagles. Only one player is left to play: the Spartans' Golden Tate, in the early hours tonight. It's gonna be mighty close.
