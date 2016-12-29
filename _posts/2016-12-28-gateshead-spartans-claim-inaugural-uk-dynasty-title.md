@@ -5,6 +5,10 @@ date: 2016-12-28
 categories: reports
 ---
 
+## Britannia Bowl I: Gateshead Spartans v Coventry Eagles
+
+The inaugural UK Dynasty Britannia Bowl, contested between the North and South divisional playoff winners - the Gateshead Spartans and the Coventry Eagles respectively - took place over Week 16's Christmas weekend. For a preview of the matchup, [take a look here]({% link _posts/2016-12-22-championship-preview.md %}), but to find out how the dramatic Bowl unfolded, read on.
+
 ## Thursday Night Football: The Glass-man Cometh
 
 New York Giants  
