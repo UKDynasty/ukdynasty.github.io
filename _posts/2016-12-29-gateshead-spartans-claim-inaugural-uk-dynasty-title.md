@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Britannia Bowl I: Gateshead Spartans claim inaugural UK Dynasty title"
-date: 2016-12-28
+date: 2016-12-29
 categories: reports
 ---
 
