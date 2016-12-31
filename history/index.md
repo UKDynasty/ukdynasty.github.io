@@ -11,15 +11,15 @@ permalink: /history
 
 ### Britannia Bowl
 
-**2016:**  
+**2016:**  Gateshead Spartans
 
 ### South Division
 
-**2016:**  
+**2016:**  Coventry Eagles
 
 ### North Division
 
-**2016:**  
+**2016:**  Gateshead Spartans
 
 ## Records
 
@@ -27,11 +27,11 @@ Stats are kept throughout the season on [this Google Sheet](http://bit.do/UKDyna
 
 ### All-time
 
-**Most championships won:**  
-n/a  
+**Most championships won:** 1  
+(Gateshead Spartans, 2016)  
 
 **Most regional finals won:**  
-n/a  
+(Gateshead Spartans & Coventry Eagles, 2016)  
 
 **Most playoff appearances:**  1  
 (Coventry Eagles, Derby Otters, Taunton Donkeys, Gateshead Spartans, Wigan Wombats, Hereford Chargers)   
