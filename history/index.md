@@ -39,8 +39,8 @@ n/a
 **Most weekly points scored by one franchise:**  178.3  
 (Hereford Chargers v Coventry Eagles, W1 2016)  
 
-**Most weekly points scored by one individual starter:**  42  
-(Julio Jones, Coventry Eagles, W4 2016)  
+**Most weekly points scored by one individual starter:**  49.8  
+(Le'Veon Bell, Hereford Chargers, Playoffs W1 2016)   
 
 **Fewest weekly points scored by one franchise:**  48.8  
 (Andover Sandslashers, W13 2016)  
@@ -63,7 +63,7 @@ n/a
 (Hereford Chargers v Coventry Eagles, W1)  
 
 **Most weekly points scored by one individual starter:**  42  
-(Julio Jones, Coventry Eagles, W4 2016)  
+(Le'Veon Bell, Hereford Chargers, Playoffs W1)
 
 **Fewest weekly points scored by one franchise:**  48.8  
 (Andover Sandslashers, W13)
