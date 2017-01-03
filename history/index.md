@@ -2,6 +2,7 @@
 layout: page
 title: History
 permalink: /history
+published: true
 ---
 
 - [Winners](#winners)
@@ -30,7 +31,7 @@ Stats are kept throughout the season on [this Google Sheet](http://bit.do/UKDyna
 **Most championships won:** 1  
 (Gateshead Spartans, 2016)  
 
-**Most regional finals won:**  
+**Most regional finals won:** 1  
 (Gateshead Spartans & Coventry Eagles, 2016)  
 
 **Most playoff appearances:**  1  
