@@ -1,7 +1,11 @@
 ---
-published: false
+layout: post
+title: "2017 Rookie Draft Order"
+date: 2016-12-26
+categories: stats
 ---
-The 2017 rookie draft order is now set. In brackets, for funsies, are higher round (3rd round+) picks that are currently not owned by their respective teams. 
+
+The 2017 rookie draft order is now set. In brackets are higher round (3rd round+) picks that are currently not owned by their respective teams. 
 
 **Pick 1:** OXFORD PYTHONS (1st round currently owned by Sandslashers, 2nd: Seahawks)
 **Pick 2:** OXFORD SEAHAWKS (3rd: Pythons)
@@ -16,4 +20,4 @@ The 2017 rookie draft order is now set. In brackets, for funsies, are higher rou
 **Pick 11:** COVENTRY EAGLES (2nd: Pythons)
 **Pick 12:** GATESHEAD SPARTANS (2nd: Pythons)
 
-See all pick trades in the usual place: http://bit.do/UKDynastyLeagueFutureDraftPickTrades
+See all pick trades in the usual place, on [Google Sheets](http://bit.do/UKDynastyLeagueFutureDraftPickTrades), or the [Trades](/trades) page for all trades including those not involving picks.
