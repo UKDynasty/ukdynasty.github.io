@@ -4,15 +4,7 @@ title: Calendar
 permalink: /calendar
 ---
 
-**NOW:** Rule change suggestion window is open - PM or email me with suggestions for any rule changes for next season. We'll vote on them in February. 
-
-Off-season rules apply - waiver bids processed according to off-season rules (once weekly on a Wednesday).
-
-**January 7th 2017:** Trading re-opens
-
-**February 1st 2017:** AGM begins (couple of weeks long), rule changes are voted on
-
-**1st March 2017:** New season begins, free agent bidding budget renews
+**1st March 2017:** Move to MyFantasyLeague for off-season. New season begins, free agent bidding budget renews
 
 **April 27-29th 2017:** NFL Draft
 
