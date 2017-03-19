@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Power rankings and Britannia Bowl II odds"
+title: "Ratings results and Britannia Bowl II odds"
 date: 2017-03-19
 categories: league-news
 ---
