@@ -45,9 +45,11 @@ The winners of each division will receive a bye to the Regional Final. 2nd and 3
 
 There will be no separate rookie draft for the inaugural 2016 season. Rookies will be included in the initial startup draft. 
 
-From the second season and beyond, a 5-round rookie draft (slow email style) will be held starting approximately two weeks after the NFL draft, using the draft facility on MyFantasyLeague.com. Each team will have 1 draft pick for each round. These picks are tradeable during the season prior to that season’s draft (see TRADING, below). An 8 hour pick clock will be in use, with the clock paused between the hours of midnight and 5am.
+The 2017 rookie draft will be a 5-round rookie draft (slow email style), held sometime in May (date TBC), using the draft facility on MyFantasyLeague.com. Each team will have 1 draft pick for each round. Picks are tradeable, and immediately processed with commissioner approval during the draft. A 10 hour pick clock will be in use, with the clock paused between the hours of 10pm and 6am.
 
-At the end of the first rookie draft (start of the 2017 season), the roster size will be expanded to 25, to account for the first influx of rookies.
+At the start of the 2017 rookie draft, the roster size will be expanded to 25.
+
+From 2018 onwards, the rookie draft will be 4 rounds.
 
 From the off-season before season 3 (start of the 2018 season) and beyond, an off-season roster size of 30 will apply from the close of the rookie draft until 2 weeks before the start of the NFL season, to allow owners to evaluate their players before bringing the roster within the 25-man limit.
 
@@ -80,11 +82,11 @@ In the event of any tie, the following tie-breakers shall be used, in order (rou
 
 ## WAIVERS/FREE AGENTS
 
-The league uses the "Free Agent Auction (Continuous)" system of managing free agents during the season. Each team has a budget of $100 which can be used to bid on free agents throughout the season. The $100 will be assigned to each team on league opening each season (around March). Free agents (all non-drafted players and anybody dropped from rosters) are available to bid on at all times. 
+The league uses the "Free Agent Auction (Continuous)" system of managing free agents during the season. Each team has a budget of $200 which can be used to bid on free agents throughout the season. The $200 will be assigned to each team on league opening each season (around March 1st). Free agents (all non-drafted players and anybody dropped from rosters) are available to bid on at all times. 
 
 During the season (start of week 1 onwards), bids will be processed at 11am ET (4pm UK most of the year-round) on every day of the week except Tuesday.
 
-In the off-season, bids will be processed weekly on Wednesdays at 11am ET (4pm UK most of the year-round).
+In the off-season, bids will be processed weekly on Wednesdays at 11am ET (4pm UK most of the year-round). 
 
 For example, if a player is dropped from Team C on Sunday evening in week 3, all owners can enter bids for the player from a minimum of $1. At 11am ET on the next bid processing day (in this case, Monday at 11am ET), the team with the highest bid will have the player added to their roster, and the bid amount deducted from their free agency budget.
 
@@ -92,9 +94,9 @@ There is more about the waiver process in ESPN's FAQ here: http://games.espn.go.
 
 ## TRADING
 
-Trading is suspended between the Thursday before Week 14 (Week 1 of the UK Dynasty playoffs) and the start of the new offseason. In 2016, the trading deadline is the 8th of December at midday ET (5pm GMT). Trades must be accepted (not just proposed) by the deadline to be valid.
+Trading is suspended from the Thursday before Week 14 (Week 1 of the UK Dynasty playoffs). Trading re-opens the Monday following the NFL Super Bowl. Trades must be accepted (not just proposed) by the deadline to be valid.
 
-Trades that involve players (and draft picks when available) should be made using the facility on ESPN.
+Trades that involve players (and draft picks when available) should be made using the facility on ESPN, or MFL if during the off-season.
 
 You can trade picks for the next year’s rookie draft, and the year after. E.g. During the 2016 season, you can trade 2017 and 2018 rookie draft picks. ESPN doesn't have a facility for trading draft picks during the season, and doesn’t support it at all when using an “offline” draft. There is a messageboard thread (“Report Draft Pick Trade”, linked to from the league homepage) where the draft pick trade should be reported. The commissioner will transfer these to the “Future Rookie Draft Pick Trades” spreadsheet on Google Docs (http://bit.do/UKDynastyLeagueFutureRookieDraftPickTrades), and apply the trades to the rookie draft order prior to the commencement of the relevant year’s draft.  
 
@@ -107,7 +109,7 @@ Team B give up Year 2017 2nd round pick to Team A
 
 Only one of the teams involved in the trade needs to post details of the trade. The commissioner will email the other party to confirm the trade. Once the other party confirms the trade or 7 days have passed, whichever is sooner, the trade will be deemed complete.
 
-Trades cannot be vetoed unless the trade is an obvious attempt at collusion. 8 out of 12 owners must vote to veto a trade in this instance. Trades are not to be vetoed because other owners deem them unfair on one of the parties.
+Trades cannot be vetoed unless the trade is an obvious attempt at collusion. Only the commissioner can veto a trade. Trades are not to be vetoed because other owners deem them unfair on one of the parties.
 
 Temporary trades or “loan trades” are prohibited. Examples of a temporary trade include:
 
@@ -118,9 +120,9 @@ Trades must be made with the intention that they are permanent.
 
 ## ANNUAL RULE CHANGES: OWNERS’ MEETING
 
-The league will accept suggestions for rule changes for the upcoming season/s from the culmination of the UK Dynasty Bowl (end of NFL week 16) until the new season start date (usually early March, confirmed closer to the time), each season.
+The league will accept suggestions for rule changes for the upcoming season/s from the culmination of the UK Dynasty Bowl (end of NFL week 16) until the new season start date (generally March 1st), each season.
 
-Any owner can put forward a suggestion of a rule change, and a poll of all owners will be taken on rule changes that cut the commissioner's proverbial mustard (basically anything that's not totally crazy or league-ruining or against the ethos of the league). A 75% (8/12) vote will be required for a rule change to be passed.
+Any owner can put forward a suggestion of a rule change, and a poll of all owners will be taken on rule changes that cut the commissioner's proverbial mustard (basically anything that's not totally crazy or league-ruining or against the ethos of the league). The majority required for a rule change to pass will be set individually for each proposal. Most of the time, it will be a simple "over 50%" majority required, but for more wide-ranging or serious changes, it may be 75% or more.
 
 Suggested rule changes can include scoring adjustments, waiver wire rules, league calendar adjustments - anything that is set in ESPN rules or the bylaws is up for debate each and every year.
 
