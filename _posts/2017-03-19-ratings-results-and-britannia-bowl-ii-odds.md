@@ -16,6 +16,7 @@ We were pondering what the odds would look like if bookies had a market out for 
 | Chippenham Packers (S) | 7.17 | 58.3% |
 | Nottingham Bandits (N) | 6.67 | 41.7% |
 | Gateshead Spartans (N) | 6.58 | 58.3% |
+| Hereford Chargers (S) | 6.33 | 75% |
 | Andover Sandslashers (S) | 6.00 | 33.3% |
 | Derby Otters (N) | 5.67 | 58.3% |
 | Irish Flyers (N) | 5.67 | 50% |
