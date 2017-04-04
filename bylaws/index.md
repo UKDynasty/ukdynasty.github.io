@@ -18,6 +18,8 @@ All bylaws are an **explanation** or **extension** of the rules set on ESPN/MyFa
     - [3.1 Order of picks](#31-order-of-picks)
     - [3.2 Reduction to 4 rounds from 2018](#32-reduction-to-4-rounds-from-2018)
 - [4. Waivers/free agents](#4-waiversfree-agents)
+    - [4.1 During the season](#41-during-the-season)
+    - [4.2 During the off-season](#42-during-the-off-season)
 - [5. Trading](#5-trading)
 - [6. Annual rule changes: Owners' Meeting](#6-annual-rule-changes-owners-meeting)
 - [7. Ethos](#7-ethos)
@@ -89,13 +91,15 @@ Free agents will not be included in the rookie draft.
 
 The league uses the "Free Agent Auction (Continuous)" system of managing free agents during the season. Each team has a budget of $200 which can be used to bid on free agents throughout the season. The $200 will be assigned to each team on league opening each season (around March 1st). Free agents (all non-drafted players and anybody dropped from rosters) are available to bid on at all times. 
 
+There is more about the waiver process in ESPN's FAQ here: http://games.espn.go.com/ffl/resources/help/faq?name=what-are-waivers
+
+### 4.1 During the season
+
 During the season (start of week 1 onwards), bids will be processed at 11am ET (4pm UK most of the year-round) on every day of the week except Tuesday.
 
+### 4.2 During the off-season
+
 In the off-season, bids will be processed weekly on Wednesdays at 11am ET (4pm UK most of the year-round). 
-
-For example, if a player is dropped from Team C on Sunday evening in week 3, all owners can enter bids for the player from a minimum of $1. At 11am ET on the next bid processing day (in this case, Monday at 11am ET), the team with the highest bid will have the player added to their roster, and the bid amount deducted from their free agency budget.
-
-There is more about the waiver process in ESPN's FAQ here: http://games.espn.go.com/ffl/resources/help/faq?name=what-are-waivers
 
 ## 5. TRADING
 
