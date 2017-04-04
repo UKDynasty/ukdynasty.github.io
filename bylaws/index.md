@@ -10,7 +10,9 @@ This is the living, breathing bylaws document of the UK Dynasty league. Revision
 All bylaws are an **explanation** or **extension** of the rules set on ESPN/MyFantasyLeague. This document doesn't outline all aspects of the scoring system, or describe how processes on the host websites work. However, any change in rules within the league hosts will be subject to league disussion/vote, as would any rule within the Bylaws.
 
 - [1. Team setup](#1-team-setup)  
-    - [1.1 Increase in roster size from 2017](#11-increase-in-roster-size-from-2017)
+    - [1.1 Roster size](#11-roster-size)
+        - [1.1.1 Increase in roster size from 2017](#11-increase-in-roster-size-from-2017)
+    - [1.2 Retired players](#111-retired-players)
 - [2. Schedule](#2-schedule)  
     - [2.1 Regular season](#21-regular-season)
     - [2.2 Playoffs](#22-playoffs)
@@ -26,13 +28,21 @@ All bylaws are an **explanation** or **extension** of the rules set on ESPN/MyFa
 
 ## 1. TEAM SETUP
 
+### 1.1 Roster size
+
 Rosters are a maximum of 20 players, with 9 starters. Starting lineups consist of 1 QB, 2 RBs, 3 WRs, 1 TE, and 2 RB/WR/TE flex spots.
 
 There are 3 spots open for Injured Reserve (IR) on each roster. See the ESPN FAQs for more on this: http://games.espn.go.com/ffl/resources/help/faq?name=how-do-i-move-a-player-on-or-off-the-ir
 
-### 1.1 Increase in roster size from 2017
+#### 1.1.1 Increase in roster size from 2017
 
 At the start of the 2017 rookie draft, the roster size will be expanded to 25.
+
+### 1.2 Retired players
+
+If a player retires, they no longer take up a roster spot of the owning team. However, should they un-retire and rejoin the NFL, they will return to the roster of the team they were on at the point of retirement. 
+
+If the roster is full, the owner can either release the player immediately, or take a maximum of 7 days from the day of unretirement to free up a roster spot for the un-retired player, otherwise they will be returned to the pool of free agents.
 
 ## 2. SCHEDULE
 
