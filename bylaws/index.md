@@ -11,8 +11,8 @@ All bylaws are an **explanation** or **extension** of the rules set on ESPN/MyFa
 
 - [1. Team setup](#1-team-setup)  
     - [1.1 Roster size](#11-roster-size)
-        - [1.1.1 Increase in roster size from 2017](#11-increase-in-roster-size-from-2017)
-    - [1.2 Retired players](#111-retired-players)
+        - [1.1.1 Increase in roster size from 2017](#111-increase-in-roster-size-from-2017)
+    - [1.2 Retired players](#12-retired-players)
 - [2. Schedule](#2-schedule)  
     - [2.1 Regular season](#21-regular-season)
     - [2.2 Playoffs](#22-playoffs)
