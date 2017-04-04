@@ -9,47 +9,50 @@ This is the living, breathing bylaws document of the UK Dynasty league. Revision
 
 All bylaws are an **explanation** or **extension** of the rules set on ESPN/MyFantasyLeague. This document doesn't outline all aspects of the scoring system, or describe how processes on the host websites work. However, any change in rules within the league hosts will be subject to league disussion/vote, as would any rule within the Bylaws.
 
-- [1. Team setup](#team-setup)  
-- [2. Schedule](#schedule)  
-    - [2.1 Regular season](#regular-season)
-    - [2.2 Playoffs](#playoffs)
-- [3. Rookie draft](#rookie-draft)
-    - [3.1 Order of picks](#order-of-picks)
-- [4. Waivers/free agents](#waiversfree-agents)
-- [5. Trading](#trading)
-- [6. Annual rule changes: Owners' Meeting](#annual-rule-changes-owners-meeting)
-- [7. Ethos](#ethos)
+- [1. Team setup](#1-team-setup)  
+    - [1.1 Increase in roster size from 2017](#11-increase-in-roster-size-from-2017)
+- [2. Schedule](#2-schedule)  
+    - [2.1 Regular season](#21-regular-season)
+    - [2.2 Playoffs](#22-playoffs)
+- [3. Rookie draft](#3-rookie-draft)
+    - [3.1 Order of picks](#31-order-of-picks)
+    - [3.2 Reduction to 4 rounds from 2018](#32-reduction-to-4-rounds-from-2018)
+- [4. Waivers/free agents](#4-waiversfree-agents)
+- [5. Trading](#5-trading)
+- [6. Annual rule changes: Owners' Meeting](#6-annual-rule-changes-owners-meeting)
+- [7. Ethos](#7-ethos)
 
 ## 1. TEAM SETUP
 
-Rosters are a maximum of 20 players, with 9 to be selected for the starting lineup each week.
+Rosters are a maximum of 20 players, with 9 starters. Starting lineups consist of 1 QB, 2 RBs, 3 WRs, 1 TE, and 2 RB/WR/TE flex spots.
 
-The starting lineup will consist of 1 QB, 2 RBs, 3 WRs, 1 TE, and 2 flex spots to use as you wish (anything but QBs).
+There are 3 spots open for Injured Reserve (IR) on each roster. See the ESPN FAQs for more on this: http://games.espn.go.com/ffl/resources/help/faq?name=how-do-i-move-a-player-on-or-off-the-ir
 
-3 players can be placed on the Injured Reserve (IR) list. See the ESPN FAQs for more on this: http://games.espn.go.com/ffl/resources/help/faq?name=how-do-i-move-a-player-on-or-off-the-ir
+### 1.1 Increase in roster size from 2017
+
+At the start of the 2017 rookie draft, the roster size will be expanded to 25.
 
 ## 2. SCHEDULE
 
-Two divisions of six - North and South - will be created, with teams assigned to their division by the geographical position of their town/city. 
+There are two divisions of six teams, North and South, with teams assigned to their division by the geographical position of their town/city. 
 
-The assigned division of a franchise may change in the off-season at the commissioner’s discretion.
+Franchises' assigned divisions may change during the off-season at the Commissioner's discretion, to account for geographical balancing if a franchise's ownership changes.
 
 ### 2.1 Regular season
 
-There will be a 13 week regular season - teams will play all 5 teams in their division twice and 3 teams from the other division once. The schedule will be created using MyFantasyLeague.com, and transferred to ESPN manually by the commissioner.
+The regular season takes place during weeks 1 to 13 of the NFL season. Teams will play all 5 other teams in their division twice, and 3 teams from the other division once. The schedule will be created using MyFantasyLeague.com, and transferred to ESPN manually by the commissioner.
 
 ### 2.2 Playoffs
-The playoffs will run between weeks 14 and 16 of the NFL season.
 
-The winners of each division will receive a bye to the Regional Final. 2nd and 3rd spots will play off in the Regional Semi-Finals for the right to play in the Regional Final. The winners of each of the Regional Finals will face each other in the UK Dynasty Final.
+The playoffs run between weeks 14 and 16 of the NFL season.
+
+The winners of each division will receive a bye to the Regional Final. 2nd and 3rd spots will play off in the Regional Semi-Finals for the right to play in the Regional Final. The winners of each of the Regional Finals will face each other in the UK Dynasty Final (the *Britannia Bowl*).
 
 ## 3. ROOKIE DRAFT
 
-There will be no separate rookie draft for the inaugural 2016 season. Rookies will be included in the initial startup draft. 
-
 The 2017 rookie draft will be a 5-round rookie draft (slow email style), held sometime in May (date TBC), using the draft facility on MyFantasyLeague.com. Each team will have 1 draft pick for each round. Picks are tradeable, and immediately processed with commissioner approval during the draft. A 10 hour pick clock will be in use, with the clock paused between the hours of 10pm and 6am.
 
-At the start of the 2017 rookie draft, the roster size will be expanded to 25.
+### 3.1 Reduction to 4 rounds from 2018
 
 From 2018 onwards, the rookie draft will be 4 rounds.
 
