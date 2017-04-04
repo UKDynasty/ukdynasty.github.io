@@ -12,7 +12,7 @@ This is the living, breathing bylaws document of the UK Dynasty league. Revision
     - [2.1 Regular season](#regular-season)
     - [2.2 Playoffs](#playoffs)
 - [3. Rookie draft](#rookie-draft)
-    - [3.3 Order of picks](#order-of-picks)
+    - [3.1 Order of picks](#order-of-picks)
 - [4. Waivers/free agents](#waiversfree-agents)
 - [5. Trading](#trading)
 - [6. Annual rule changes: Owners' Meeting](#annual-rule-changes-owners-meeting)
