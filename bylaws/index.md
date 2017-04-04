@@ -7,18 +7,18 @@ permalink: /bylaws
 
 This is the living, breathing bylaws document of the UK Dynasty league. Revision history from December 2016 onwards can be found [on GitHub](https://github.com/UKDynasty/ukdynasty.github.io/blob/master/bylaws/index.md). The original version of this document (with revision history from the start of the league) can be found [on Google Docs](http://bit.do/UKDynastyLeagueBylaws).
 
-- [Team setup](#team-setup)  
-- [Schedule](#schedule)  
-    - [Regular season](#regular-season)
-    - [Playoffs](#playoffs)
-- [Rookie draft](#rookie-draft)
-    - [Order of picks](#order-of-picks)
-- [Waivers/free agents](#waiversfree-agents)
-- [Trading](#trading)
-- [Annual rule changes: Owners' Meeting](#annual-rule-changes-owners-meeting)
-- [Ethos](#ethos)
+- [1. Team setup](#team-setup)  
+- [2. Schedule](#schedule)  
+    - [2.1 Regular season](#regular-season)
+    - [2.2 Playoffs](#playoffs)
+- [3. Rookie draft](#rookie-draft)
+    - [3.3 Order of picks](#order-of-picks)
+- [4. Waivers/free agents](#waiversfree-agents)
+- [5. Trading](#trading)
+- [6. Annual rule changes: Owners' Meeting](#annual-rule-changes-owners-meeting)
+- [7. Ethos](#ethos)
 
-## TEAM SETUP
+## 1. TEAM SETUP
 
 Rosters are a maximum of 20 players, with 9 to be selected for the starting lineup each week.
 
@@ -26,22 +26,22 @@ The starting lineup will consist of 1 QB, 2 RBs, 3 WRs, 1 TE, and 2 flex spots t
 
 3 players can be placed on the Injured Reserve (IR) list. See the ESPN FAQs for more on this: http://games.espn.go.com/ffl/resources/help/faq?name=how-do-i-move-a-player-on-or-off-the-ir
 
-## SCHEDULE
+## 2. SCHEDULE
 
 Two divisions of six - North and South - will be created, with teams assigned to their division by the geographical position of their town/city. 
 
 The assigned division of a franchise may change in the off-season at the commissioner’s discretion.
 
-### Regular season
+### 2.1 Regular season
 
 There will be a 13 week regular season - teams will play all 5 teams in their division twice and 3 teams from the other division once. The schedule will be created using MyFantasyLeague.com, and transferred to ESPN manually by the commissioner.
 
-### Playoffs
+### 2.2 Playoffs
 The playoffs will run between weeks 14 and 16 of the NFL season.
 
 The winners of each division will receive a bye to the Regional Final. 2nd and 3rd spots will play off in the Regional Semi-Finals for the right to play in the Regional Final. The winners of each of the Regional Finals will face each other in the UK Dynasty Final.
 
-## ROOKIE DRAFT
+## 3. ROOKIE DRAFT
 
 There will be no separate rookie draft for the inaugural 2016 season. Rookies will be included in the initial startup draft. 
 
@@ -55,7 +55,7 @@ From the off-season before season 3 (start of the 2018 season) and beyond, an of
 
 Free agents will not be included in the rookie draft.
 
-### Order of picks
+### 3.1 Order of picks
 
 Rookie draft pick order will be based on the final league and playoff standings, as follows.
 
@@ -80,7 +80,7 @@ In the event of any tie, the following tie-breakers shall be used, in order (rou
 2. Overall points-against 
 3. Coin flip 
 
-## WAIVERS/FREE AGENTS
+## 4. WAIVERS/FREE AGENTS
 
 The league uses the "Free Agent Auction (Continuous)" system of managing free agents during the season. Each team has a budget of $200 which can be used to bid on free agents throughout the season. The $200 will be assigned to each team on league opening each season (around March 1st). Free agents (all non-drafted players and anybody dropped from rosters) are available to bid on at all times. 
 
@@ -92,7 +92,7 @@ For example, if a player is dropped from Team C on Sunday evening in week 3, all
 
 There is more about the waiver process in ESPN's FAQ here: http://games.espn.go.com/ffl/resources/help/faq?name=what-are-waivers
 
-## TRADING
+## 5. TRADING
 
 Trading is suspended from the Thursday before Week 14 (Week 1 of the UK Dynasty playoffs). Trading re-opens the Monday following the NFL Super Bowl. Trades must be accepted (not just proposed) by the deadline to be valid.
 
@@ -118,7 +118,7 @@ Temporary trades or “loan trades” are prohibited. Examples of a temporary tr
 
 Trades must be made with the intention that they are permanent.
 
-## ANNUAL RULE CHANGES: OWNERS’ MEETING
+## 6. ANNUAL RULE CHANGES: OWNERS’ MEETING
 
 The league will accept suggestions for rule changes for the upcoming season/s from the culmination of the UK Dynasty Bowl (end of NFL week 16) until the new season start date (generally March 1st), each season.
 
@@ -126,7 +126,7 @@ Any owner can put forward a suggestion of a rule change, and a poll of all owner
 
 Suggested rule changes can include scoring adjustments, waiver wire rules, league calendar adjustments - anything that is set in ESPN rules or the bylaws is up for debate each and every year.
 
-## ETHOS
+## 7. ETHOS
 
 The aim of UK Dynasty is to be a fun, friendly, active NFL dynasty league that's enjoyable for everyone involved. Try to remain as active as you can, especially during the offseason: one of the best things about dynasty leagues is that they keep you entertained during the long, game-starved summer.
 
