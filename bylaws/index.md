@@ -52,14 +52,6 @@ The winners of each division will receive a bye to the Regional Final. 2nd and 3
 
 The 2017 rookie draft will be a 5-round rookie draft (slow email style), held sometime in May (date TBC), using the draft facility on MyFantasyLeague.com. Each team will have 1 draft pick for each round. Picks are tradeable, and immediately processed with commissioner approval during the draft. A 10 hour pick clock will be in use, with the clock paused between the hours of 10pm and 6am.
 
-### 3.1 Reduction to 4 rounds from 2018
-
-From 2018 onwards, the rookie draft will be 4 rounds.
-
-From the off-season before season 3 (start of the 2018 season) and beyond, an off-season roster size of 30 will apply from the close of the rookie draft until 2 weeks before the start of the NFL season, to allow owners to evaluate their players before bringing the roster within the 25-man limit.
-
-Free agents will not be included in the rookie draft.
-
 ### 3.1 Order of picks
 
 Rookie draft pick order will be based on the final league and playoff standings, as follows.
@@ -84,6 +76,14 @@ In the event of any tie, the following tie-breakers shall be used, in order (rou
 1. Overall points-for 
 2. Overall points-against 
 3. Coin flip 
+
+### 3.2 Reduction to 4 rounds from 2018
+
+From 2018 onwards, the rookie draft will be 4 rounds.
+
+From the off-season before season 3 (start of the 2018 season) and beyond, an off-season roster size of 30 will apply from the close of the rookie draft until 2 weeks before the start of the NFL season, to allow owners to evaluate their players before bringing the roster within the 25-man limit.
+
+Free agents will not be included in the rookie draft.
 
 ## 4. WAIVERS/FREE AGENTS
 
