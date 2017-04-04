@@ -7,6 +7,8 @@ permalink: /bylaws
 
 This is the living, breathing bylaws document of the UK Dynasty league. Revision history from December 2016 onwards can be found [on GitHub](https://github.com/UKDynasty/ukdynasty.github.io/blob/master/bylaws/index.md). The original version of this document (with revision history from the start of the league) can be found [on Google Docs](http://bit.do/UKDynastyLeagueBylaws).
 
+All bylaws are an **explanation** or **extension** of the rules set on ESPN/MyFantasyLeague. This document doesn't outline all aspects of the scoring system, or describe how processes on the host websites work. However, any change in rules within the league hosts will be subject to league disussion/vote, as would any rule within the Bylaws.
+
 - [1. Team setup](#team-setup)  
 - [2. Schedule](#schedule)  
     - [2.1 Regular season](#regular-season)
