@@ -1,7 +1,7 @@
 ---
-published: false
+published: true
 layout: post
-date: 2017-05-05T13:00:00.000Z
+date: {}
 categories: league-news
 ---
 ## Rookie Draft 2017
