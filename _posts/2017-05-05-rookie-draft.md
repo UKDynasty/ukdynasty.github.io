@@ -33,8 +33,8 @@ You can also create your own list of rankings of rookies for the whole draft at 
 
 If you fail to make a pick in time, a player will be selected based on the following rules:
 
-1) the next available player on YOUR PRE-DRAFT LIST 
-2) the next available player by highest MyFantasyLeague ADP
+1. the next available player on YOUR PRE-DRAFT LIST
+2. the next available player by highest MyFantasyLeague ADP
 
 If you repeatedly fail to make a pick in the allotted time, the commissioner reserves the right to put you on "automatic draft" mode, where the above procedure will happen immediately when you go on the clock, for remaining picks. I really don't expect to have to do that, though!
 
