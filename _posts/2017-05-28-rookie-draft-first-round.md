@@ -17,7 +17,7 @@ Round 1 of the annual rookie draft is in the books. The draft rumbles on, but we
 1.06: **Dalvin Cook**, RB, MIN - Oxford Pythons  
 1.07: **OJ Howard**, TE, TBB - Oxford Seahawks  
 1.08: **Samaje Perine**, RB, WAS - Chippenham Packers   
-1.09: **Evan Engram**, TE, LAR - Wigan Wombats  
+1.09: **Evan Engram**, TE, NYG - Wigan Wombats  
 1.10: **Kareem Hunt**, RB, KCC - Wigan Wombats   
 1.11: **David Nkoju**, TE, CLE - Irish Flyers  
 1.12: **John Ross**, WR, CIN - Irish Flyers
