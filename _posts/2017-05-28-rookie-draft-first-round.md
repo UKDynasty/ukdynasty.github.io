@@ -44,7 +44,7 @@ The Irish Flyers had warned prior to the draft that their pick at 1.03 may take 
 
 [pic]
 
-'**Joe Mixon**, running back, Cincinnati Bengals', read the card. *"Mixon has the most talent out of all the RBs."* said Dermy. 14e231 /zixos tape has proven he can be that every down back and his hands are better than most WRs. It doesn't matter if he has to catch it for 50 yards or run for 50 yards. He has it all."*
+'**Joe Mixon**, running back, Cincinnati Bengals', read the card. *"Mixon has the most talent out of all the RBs."* said Dermy. *"Mixon's tape has proven he can be that every down back and his hands are better than most WRs. It doesn't matter if he has to catch it for 50 yards or run for 50 yards. He has it all."*
 
 Just as the Bengals had to weigh up the risk in selecting Mixon in the second round of the NFL draft, Dermy and his back office also had to decide whether to take the chance of a PR storm. "The off field issues he had happened 3 years ago and although inexcusable we have decided as a franchise that he was our guy to move forward with."
 
