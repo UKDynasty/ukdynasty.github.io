@@ -8,7 +8,7 @@ categories: league-news
 
 The rookie draft will begin at midday (UK time, to be clear) on Saturday 27th May. 
 
-The draft order (including trades) is available to see here: [http://www73.myfantasyleague.com/2017/options?L=61991&O=17](MyFantasyLeague.com). 
+The draft order (including trades) is available to see on [MyFantasyLeague.com](http://www73.myfantasyleague.com/2017/options?L=61991&O=17). 
 
 ### Clock
 
