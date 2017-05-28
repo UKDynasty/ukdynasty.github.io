@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Rookie Draft: Round 1 in the books"
-date: 2017=05-28
+date: 2017-05-28
 categories: league-news
 ---
 
