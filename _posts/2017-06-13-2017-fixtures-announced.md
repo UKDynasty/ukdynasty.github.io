@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "2017 Season Fixtures Announcement"
-date: 2017-06-01
+date: 2017-06-13
 categories: league-news
 ---
 
