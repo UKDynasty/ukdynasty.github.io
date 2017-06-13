@@ -5,7 +5,9 @@ date: 2017-05-29
 categories: league-news
 ---
 
-For an in-depth report on [in-depth report on Round 1]({{ site.baseurl }}{% post_url 2017-05-28-rookie-draft-first-round %})
+The second and third rounds of the UK Dynasty Rookie Draft are in the books. We've got the picks below. There's also an [in-depth report on Round 1]({{ site.baseurl }}{% post_url 2017-05-28-rookie-draft-first-round %}) in case you're already feeling nostalgic about your first round rookie drafting experience.
+
+The whole draft can be seen on [MyFantasyLeague right here](https://www73.myfantasyleague.com/2017/options?L=61991&O=17).
 
 ## Round 2
 
