@@ -46,8 +46,8 @@ Stats are kept throughout the season on [this Google Sheet](http://bit.do/UKDyna
 **Fewest weekly points scored by one franchise:**  48.8  
 (Andover Sandslashers, W13 2016)  
 
-**Most consecutive matchups won (regular season):**  8  
-(Taunton Donkeys, W3-W10 2016 & Coventry Eagles, W6-W13 2016)  
+**Most consecutive matchups won (regular season):**  9  
+(Coventry Eagles, W6 2016 - W1 2017)  
 
 **Most consecutive matchups won (including playoffs):**  10  
 (Coventry Eagles, W6-W15 2016)  
