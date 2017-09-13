@@ -90,4 +90,4 @@ Stats are kept throughout the season on [this Google Sheet](http://bit.do/UKDyna
 (Oxford Seahawks, Gateshead Spartans, Andover Sandslashers, Derby Otters, Irish Flyers, Coventry Eagles, W1)
 
 **Most consecutive matchups lost:** 1  
-(Chippenham Packers, Wigan Wombats, Hereford Chargers, Bradford Championz, Nottingham Bandits, Oxford Pythons)
+(Chippenham Packers, Wigan Wombats, Hereford Chargers, Bradford Championz, Nottingham Bandits, Oxford Pythons, W1)
