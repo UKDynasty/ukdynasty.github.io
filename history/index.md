@@ -77,4 +77,17 @@ Stats are kept throughout the season on [this Google Sheet](http://bit.do/UKDyna
 
 #### 2017
 
-Stay tuned.
+**Most weekly points scored by one franchise:** 110.8  
+(Oxford Seahawks v Chippenham Packers, W1)
+
+**Most weekly points scored by one individual starter:** 27.1  
+(Matthew Stafford, Chippenham Packers, W1)
+
+**Fewest weekly points scored by one franchise:** 64.2  
+(Wigan Wombats, W1)
+
+**Most consecutive matchups won:** 1  
+(Oxford Seahawks, Gateshead Spartans, Andover Sandslashers, Derby Otters, Irish Flyers, Coventry Eagles, W1)
+
+**Most consecutive matchups lost:** 1  
+(Chippenham Packers, Wigan Wombats, Hereford Chargers, Bradford Championz, Nottingham Bandits, Oxford Pythons)
