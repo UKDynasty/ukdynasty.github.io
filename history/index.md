@@ -75,20 +75,21 @@ Stats are kept throughout the season on [this Google Sheet](http://bit.do/UKDyna
 **Most consecutive matchups lost:**  7  
 (Derby Wolverines, W5-W11)
 
-#### 2017 (up to week 2)
+#### 2017 (up to week 3)
 
 **Most weekly points scored by one franchise:** 134.5  
 (Coventry Eagles v Andover Sandslashers, W2)
 
-**Most weekly points scored by one individual starter:** 30.8   
-(Tom Brady, Andover Sandslashers, W2)
+**Most weekly points scored by one individual starter:** 35.7   
+(Tom Brady, Andover Sandslashers, W3)
 
 **Fewest weekly points scored by one franchise:** 59  
 (Gateshead Spartans, W2)
 
-**Most consecutive matchups won:** 2  
-(Derby Otters, Irish Flyers, Coventry Eagles, W1-W2)
+**Most consecutive matchups won:** 3  
+(Derby Otters, Irish Flyers, Coventry Eagles, W1-W3)
 
-**Most consecutive matchups lost:** 2  
-(Chippenham Packers, Bradford Championz, Nottingham Bandits, W1-W2)
+**Most consecutive matchups lost:** 3  
+(Chippenham Packers, Bradford Championz, Nottingham Bandits, W1-W3)
+
 
