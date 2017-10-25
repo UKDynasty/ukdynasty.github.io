@@ -42,7 +42,7 @@ Oxford Pythons - 1**
 
 *(You can’t handle the truth!)*
 
-The Hereford Chargers had the week’s 4th highest score this week and faced a Pythons team that scored the following results in previous weeks: 84.9, 84.1, 104.5, 101, and 72.4. This week however the Python running backs went crazy scoring 83.5 points themselves allowing the pass catchers to get just 13.9 and still win (Howard was the lowest scoring back and he got 18.1, more than the 4 receivers combined!). If the Chargers had played against the Eagles, they would have been in a tie for 1st place in the division instead they are 2 games back and in the chasing pack.
+The Hereford Chargers had the week’s 4th highest score this week and faced a Pythons team that scored the following results in previous weeks: 84.9, 84.1, 104.5, 101, and 72.4. This week however, the Python running backs went crazy, scoring 83.5 points themselves allowing the pass catchers to get just 13.9 and still win (Howard was the lowest scoring back and he got 18.1, more than the 4 receivers combined!). If the Chargers had played against the Eagles, they would have been in a tie for 1st place in the division instead they are 2 games back and in the chasing pack.
 
 **Wigan Wombats - 1  
 Coventry Eagles - 1  
