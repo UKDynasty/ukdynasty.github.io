@@ -6,4 +6,4 @@ permalink: /calendar
 
 ## 2017
 
-**Every Wednesday at 4pm**: 
+Thursday 7th December: Trade deadline 
