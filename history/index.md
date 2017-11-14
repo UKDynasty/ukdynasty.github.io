@@ -43,8 +43,8 @@ Stats are kept throughout the season on [this Google Sheet](http://bit.do/UKDyna
 **Most weekly points scored by one individual starter:**  49.8  
 (Le'Veon Bell, Hereford Chargers, Playoffs W1 2016)   
 
-**Fewest weekly points scored by one franchise:**  47.1  
-(Bradford Championz, W7 2017)  
+**Fewest weekly points scored by one franchise:**  40.6  
+(Hereford Chargers, W9 2017)  
 
 **Most consecutive matchups won (regular season):**  12  
 (Coventry Eagles, W6 2016 - W4 2017)  
@@ -72,7 +72,7 @@ Stats are kept throughout the season on [this Google Sheet](http://bit.do/UKDyna
 **Most consecutive matchups lost:**  7  
 (Derby Wolverines, W5-W11)
 
-#### 2017 (up to week 7)
+#### 2017 (up to week 10)
 
 **Most weekly points scored by one franchise:** 146  
 (Wigan Wombats v Derby Otters, W6)
@@ -80,11 +80,11 @@ Stats are kept throughout the season on [this Google Sheet](http://bit.do/UKDyna
 **Most weekly points scored by one individual starter:** 40.4  
 (Zeke Elliott, Irish Flyers, W7)
 
-**Fewest weekly points scored by one franchise:** 47.1  
-(Bradford Championz, W7)
+**Fewest weekly points scored by one franchise:** 40.6  
+(Hereford Chargers, W9)
 
-**Most consecutive matchups won:** 7 (ongoing)  
-(Irish Flyers, W1-W7)
+**Most consecutive matchups won:** 10 (ongoing)  
+(Irish Flyers, W1-W10)
 
 **Most consecutive matchups lost:** 6  
 (Nottingham Bandits, W1-W6)
