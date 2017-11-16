@@ -1,9 +1,9 @@
 ---
 published: true
-title: "Phil's Weekly Awards – Week 10"
+title: "Phil's Weekly Awards - Week 10: An Unprecedented Situation"
 layout: post
-date: 2017–11–16T00:00:00.000Z
-categories: league–news awards
+date: 2017-11-16T00:00:00.000Z
+categories: league-news awards
 ---
 
 Before I begin, I feel that I need to address the current, unprecedented situation that is facing the Coventry Eagles franchise.
