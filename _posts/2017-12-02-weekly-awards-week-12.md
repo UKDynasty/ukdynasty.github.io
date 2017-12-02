@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Phil's Weekly Awards - Week 12: As Predicted"
+title: "Phil's Weekly Awards - Week 12: Otter Supremacy"
 layout: post
 date: 2017-12-02T00:00:00.000Z
 categories: league-news awards
@@ -10,7 +10,7 @@ Where did the regular season go?! Only 1 week left and in the North the playoffs
 
 Can we all give a round of applause the Chris and his Otters? 
 
-Trade deadline on the 7th don’t forget!
+Trade deadline on the 7th - don’t forget!
 
 ### Worst Line-up Decision  
 
