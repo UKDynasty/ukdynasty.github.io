@@ -28,7 +28,7 @@ Gateshead Spartans – 1
 
 ### Most Impactful Injury 
 
-Fairly low key on the injury front in terms of fantasy value but the one that could affect the playoffs is the injury to Amari Cooper. He took a big hit and got an ankle injury and a concussion from it, so is questionable for the foreseeable future which is a shame as he could have been receiving Robert Woods’ targets. How do you injury the top and bottom of your body at the same time? It’s not like he was drunk in a shower!
+Fairly low key on the injury front in terms of fantasy value but the one that could affect the playoffs is the injury to Amari Cooper. He took a big hit and got an ankle injury and a concussion from it, so is questionable for the foreseeable future which is a shame as he could have been receiving the suspended Crabtree's targets. How do you injury the top and bottom of your body at the same time? It’s not like he was drunk in a shower!
 
 Oxford Pythons – 1  
 Nottingham Bandits (Invalids) – 2  
