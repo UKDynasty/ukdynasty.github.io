@@ -26,7 +26,7 @@ The importance of the bye is demonstrated by the fact that this week the Flyers 
 
 The Gronk suspension means that the Wombats have to play Engram against Dallas rather than Gronk against the Dolphins, which is probably some lost points. Gronk scored 22.7 points against the Dolphins 3 weeks ago and Engram’s last 2 games with Eli got him 1.4 and 3.3 points. In a game with a 9.4 point line, the Otters may fancy their chances of revenge after losing the 2 previous meetings this season.
 
-But this is injury not suspension talk, so the most impactful injury is probably the Packers’ Matt Stafford who injured his throwing hand on Sunday. Stafford has a favourable matchup in week 14 against the Bucs, and if he doesn’t play, the Packers would have to start either Bortles vs. Seattle, Kizer vs. Green Bay or Siemian vs. the Jets. That line is currently only 5.5, so this could be huge.
+But this is injury not suspension talk, so the most impactful injury is probably the Packers’ Matt Stafford who injured his throwing hand on Sunday. Stafford has a favourable matchup in week 14 against the Bucs, and if he doesn’t play, the Packers would have to start either Bortles vs. Seattle, Kizer vs. Green Bay or Siemian vs. the Jets. The projected line for the matchup is currently only 5.5, so this could be huge.
 
 Oxford Pythons – 1  
 Nottingham Bandits (Invalids) – 2  
