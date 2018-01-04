@@ -29,16 +29,16 @@ Stats are kept throughout the season on [this Google Sheet](http://bit.do/UKDyna
 ### All-time
 
 **Most championships won:** 1  
-(Gateshead Spartans, 2016)  
+(Gateshead Spartans, 2016 & Derby Otters, 2017)  
 
-**Most regional finals won:** 1  
-(Gateshead Spartans & Coventry Eagles, 2016)  
+**Most regional finals won:** 2  
+(Coventry Eagles, South, 2016 & 2017)  
 
-**Most playoff appearances:**  1  
-(Coventry Eagles, Derby Otters, Taunton Donkeys, Gateshead Spartans, Wigan Wombats, Hereford Chargers)   
+**Most playoff appearances:**  2  
+(Coventry Eagles, Derby Otters, Wigan Wombats)   
 
-**Most weekly points scored by one franchise:**  178.3  
-(Hereford Chargers v Coventry Eagles, W1 2016)  
+**Most weekly points scored by one franchise:** 184.6  
+(Coventry Eagles v Hereford Chargers, W12 2017)  
 
 **Most weekly points scored by one individual starter:**  49.8  
 (Le'Veon Bell, Hereford Chargers, Playoffs W1 2016)   
@@ -49,8 +49,8 @@ Stats are kept throughout the season on [this Google Sheet](http://bit.do/UKDyna
 **Most consecutive matchups won (regular season):**  12  
 (Coventry Eagles, W6 2016 - W4 2017)  
 
-**Most consecutive matchups won (including playoffs):**  10  
-(Coventry Eagles, W6-W15 2016)  
+**Most consecutive matchups won (including playoffs):**  11  
+(Irish Flyers, W1-W11 2017)  
 
 **Most consecutive matchups lost (regular season):** 11  
 (Nottingham Bandits, W9 2016 - W6 2017)  
@@ -72,19 +72,19 @@ Stats are kept throughout the season on [this Google Sheet](http://bit.do/UKDyna
 **Most consecutive matchups lost:**  7  
 (Derby Wolverines, W5-W11)
 
-#### 2017 (up to week 10)
+#### 2017
 
-**Most weekly points scored by one franchise:** 146  
-(Wigan Wombats v Derby Otters, W6)
+**Most weekly points scored by one franchise:** 184.6  
+(Coventry Eagles v Hereford Chargers, W12)
 
-**Most weekly points scored by one individual starter:** 40.4  
-(Zeke Elliott, Irish Flyers, W7)
+**Most weekly points scored by one individual starter:** 44.6  
+(Todd Gurley, W16)
 
 **Fewest weekly points scored by one franchise:** 40.6  
 (Hereford Chargers, W9)
 
-**Most consecutive matchups won:** 10 (ongoing)  
-(Irish Flyers, W1-W10)
+**Most consecutive matchups won:** 11  
+(Irish Flyers, W1-W11)
 
 **Most consecutive matchups lost:** 6  
 (Nottingham Bandits, W1-W6)
