@@ -12,15 +12,18 @@ published: true
 
 ### Britannia Bowl
 
-**2016:**  Gateshead Spartans
+**2016:**  Gateshead Spartans  
+**2017:** Derby Otters
 
 ### South Division
 
-**2016:**  Coventry Eagles
+**2016:**  Coventry Eagles  
+**2017:** Coventry Eagles
 
 ### North Division
 
-**2016:**  Gateshead Spartans
+**2016:**  Gateshead Spartans  
+**2017:** Irish Flyers
 
 ## Records
 
