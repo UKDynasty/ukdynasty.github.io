@@ -2,6 +2,7 @@
 layout: page
 title: Calendar
 permalink: /calendar
+published: true
 ---
 
 ### 2018
@@ -10,7 +11,7 @@ permalink: /calendar
 **Mon 5th Feb:** Trading re-opens  
 **Thu 8th Feb:** Voting opens on suggested rule changes  
 **Wed 14th Feb, midnight:** Owners' Meeting voting closes  
-**Thu 1st Mar:** New season begins, move to MFL  
+**Thu 1st Mar, earlier if possible:** New season begins, move to MFL  
 **Sat 26th May, midday:** Rookie draft begins  
 
 ### Recurring seasonal dates
@@ -22,7 +23,7 @@ permalink: /calendar
 **Monday after the Super Bowl, 9am:** trading re-opens  
 **Thursday after the Super Bowl:** Voting opens on suggested rule changes  
 **Following Wednesday:** Owners' Meeting voting closes  
-**March 1st (or as soon as MFL re-opens for the season, whichever is later):** New season begins, switchover to MyFantasyLeague for the off-season. Roster limit increases to 30.  
+**March 1st (or as soon as MFL re-opens for the season, whichever is earlier):** New season begins, switchover to MyFantasyLeague for the off-season. Roster limit increases to 30.  
 **Last Saturday in May:** Rookie draft begins, midday  
 **Mid-June:** Schedule released  
 **Mid-July/early August:** Move back to ESPN  
