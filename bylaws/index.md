@@ -21,7 +21,8 @@ All bylaws are an **explanation** or **extension** of the rules set on ESPN/MyFa
     - [3.2 Reduction to 4 rounds from 2018](#32-reduction-to-4-rounds-from-2018)
 - [4. Waivers/free agents](#4-waiversfree-agents)
     - [4.1 During the season](#41-during-the-season)
-    - [4.2 During the off-season](#42-during-the-off-season)
+    - [4.2 Free Agent Auction](#42-free-agent-auction)
+    - [4.3 During the off-season](#43-during-the-off-season)
 - [5. Trading](#5-trading)
 - [6. Annual rule changes: Owners' Meeting](#6-annual-rule-changes-owners-meeting)
 - [7. Ethos](#7-ethos)
@@ -105,11 +106,19 @@ There is more about the waiver process in ESPN's FAQ here: http://games.espn.go.
 
 ### 4.1 During the season
 
-During the season (start of week 1 onwards), bids will be processed at 11am ET (4pm UK most of the year-round) on every day of the week except Tuesday.
+During the season (start of week 1 onwards), bids will be processed at 11am ET (4pm UK most of the year-round) on every day of the week except Tuesday. Waivers will lock at the end of week 17 of the regular season.
 
-### 4.2 During the off-season
+### 4.2 Free Agent Auction
+        
+An auction of all available free agents will take place each year, starting on July 1st, on MyFantasyLeague. 
 
-In the off-season, bids will be processed weekly on Wednesdays at 11am ET (4pm UK most of the year-round). 
+All owners will begin the auction with a $200 budget that will act as both their auction budget and their FAAB budget for the whole season. There is no minimum or maximum amount that owners must spend during the auction.
+
+All owners can open auctions on players, with the bidding ending once no bid has been made in 8 hours - highest bid wins that player.
+
+### 4.3 During the off-season
+
+On completion of the Free Agent Auction, bids will be processed weekly on Wednesdays at 11am ET (4pm UK most of the year-round). 
 
 ## 5. TRADING
 
