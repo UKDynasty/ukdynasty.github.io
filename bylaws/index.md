@@ -18,7 +18,6 @@ All bylaws are an **explanation** or **extension** of the rules set on ESPN/MyFa
     - [2.2 Playoffs](#22-playoffs)
 - [3. Rookie draft](#3-rookie-draft)
     - [3.1 Order of picks](#31-order-of-picks)
-    - [3.2 Reduction to 4 rounds from 2018](#32-reduction-to-4-rounds-from-2018)
 - [4. Waivers/free agents](#4-waiversfree-agents)
     - [4.1 During the season](#41-during-the-season)
     - [4.2 Free Agent Auction](#42-free-agent-auction)
@@ -31,13 +30,9 @@ All bylaws are an **explanation** or **extension** of the rules set on ESPN/MyFa
 
 ### 1.1 Roster size
 
-Rosters are a maximum of 20 players, with 9 starters. Starting lineups consist of 1 QB, 2 RBs, 3 WRs, 1 TE, and 2 RB/WR/TE flex spots.
+Rosters are a maximum of 25 players, with 9 starters. Starting lineups consist of 1 QB, 2 RBs, 3 WRs, 1 TE, and 2 RB/WR/TE flex spots.
 
 There are 3 spots open for Injured Reserve (IR) on each roster. See the ESPN FAQs for more on this: http://games.espn.go.com/ffl/resources/help/faq?name=how-do-i-move-a-player-on-or-off-the-ir
-
-#### 1.1.1 Increase in roster size from 2017
-
-At the start of the 2017 rookie draft, the roster size will be expanded to 25.
 
 ### 1.2 Retired players
 
@@ -63,7 +58,9 @@ The winners of each division will receive a bye to the Regional Final. 2nd and 3
 
 ## 3. ROOKIE DRAFT
 
-The 2017 rookie draft will be a 5-round rookie draft (slow email style), held sometime in May (date TBC), using the draft facility on MyFantasyLeague.com. Each team will have 1 draft pick for each round. Picks are tradeable, and immediately processed with commissioner approval during the draft. A 10 hour pick clock will be in use, with the clock paused between the hours of 10pm and 6am.
+A 4-round rookie draft (slow email style) will be held each year starting on the last Saturday in May, using the draft facility on MyFantasyLeague.com. Each team will have 1 draft pick for each round. Picks are tradeable. A 10 hour pick clock will be in use, with the clock paused between the hours of 10pm and 6am.
+
+Free agents will not be included in the rookie draft.
 
 ### 3.1 Order of picks
 
@@ -90,19 +87,7 @@ In the event of any tie, the following tie-breakers shall be used, in order (rou
 2. Overall points-against 
 3. Coin flip 
 
-### 3.2 Reduction to 4 rounds from 2018
-
-From 2018 onwards, the rookie draft will be 4 rounds.
-
-From the off-season before season 3 (start of the 2018 season) and beyond, an off-season roster size of 30 will apply from the close of the rookie draft until 2 weeks before the start of the NFL season, to allow owners to evaluate their players before bringing the roster within the 25-man limit.
-
-Free agents will not be included in the rookie draft.
-
 ## 4. WAIVERS/FREE AGENTS
-
-The league uses the "Free Agent Auction (Continuous)" system of managing free agents during the season. Each team has a budget of $200 which can be used to bid on free agents throughout the season. The $200 will be assigned to each team on league opening each season (around March 1st). Free agents (all non-drafted players and anybody dropped from rosters) are available to bid on at all times. 
-
-There is more about the waiver process in ESPN's FAQ here: http://games.espn.go.com/ffl/resources/help/faq?name=what-are-waivers
 
 ### 4.1 During the season
 
