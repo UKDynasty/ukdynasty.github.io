@@ -13,6 +13,7 @@ All bylaws are an **explanation** or **extension** of the rules set on ESPN/MyFa
     - [1.1 Roster size](#11-roster-size)
     - [1.2 Retired players](#12-retired-players)
     - [1.3 Taxi squads](#13-taxi-squads)
+        - [1.3.1 Claiming players](#131-claiming-players)
 - [2. Schedule](#2-schedule)  
     - [2.1 Regular season](#21-regular-season)
     - [2.2 Playoffs](#22-playoffs)
@@ -82,8 +83,6 @@ Compensation:
 | Undrafted | 4th |
 
 If a team doesn't have the pick required to compensate, they can offer a pick from a higher round. Only picks for the next rookie draft are valid compensation - future picks don't count.
-
-### 1.3.2 
 
 ## 2. SCHEDULE
 
