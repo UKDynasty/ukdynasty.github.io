@@ -13,6 +13,7 @@ All bylaws are an **explanation** or **extension** of the rules set on ESPN/MyFa
     - [1.1 Roster size](#11-roster-size)
         - [1.1.1 Increase in roster size from 2017](#111-increase-in-roster-size-from-2017)
     - [1.2 Retired players](#12-retired-players)
+    - [1.3 Taxi squads](#13-taxi-squads)
 - [2. Schedule](#2-schedule)  
     - [2.1 Regular season](#21-regular-season)
     - [2.2 Playoffs](#22-playoffs)
@@ -32,6 +33,8 @@ All bylaws are an **explanation** or **extension** of the rules set on ESPN/MyFa
 
 Rosters are a maximum of 25 players, with 9 starters. Starting lineups consist of 1 QB, 2 RBs, 3 WRs, 1 TE, and 2 RB/WR/TE flex spots.
 
+During the off-season, the roster limit will increase to 30. Teams must get their roster down to the in-season limit of 25 by the Sunday before week 1 at 6pm. If a franchise is over this limit when the deadline passes, players will be forcefully dropped to comply, in last-in-first-out order.
+
 There are 3 spots open for Injured Reserve (IR) on each roster. See the ESPN FAQs for more on this: http://games.espn.go.com/ffl/resources/help/faq?name=how-do-i-move-a-player-on-or-off-the-ir
 
 ### 1.2 Retired players
@@ -39,6 +42,8 @@ There are 3 spots open for Injured Reserve (IR) on each roster. See the ESPN FAQ
 If a player retires, they no longer take up a roster spot of the owning team. However, should they un-retire and rejoin the NFL, they will return to the roster of the team they were on at the point of retirement. 
 
 If the roster is full, the owner can either release the player immediately, or take a maximum of 7 days from the day of unretirement to free up a roster spot for the un-retired player, otherwise they will be returned to the pool of free agents.
+
+### 1.3 Taxi squads
 
 ## 2. SCHEDULE
 
