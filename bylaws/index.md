@@ -11,7 +11,6 @@ All bylaws are an **explanation** or **extension** of the rules set on ESPN/MyFa
 
 - [1. Team setup](#1-team-setup)  
     - [1.1 Roster size](#11-roster-size)
-        - [1.1.1 Increase in roster size from 2017](#111-increase-in-roster-size-from-2017)
     - [1.2 Retired players](#12-retired-players)
     - [1.3 Taxi squads](#13-taxi-squads)
 - [2. Schedule](#2-schedule)  
@@ -31,7 +30,9 @@ All bylaws are an **explanation** or **extension** of the rules set on ESPN/MyFa
 
 ### 1.1 Roster size
 
-Rosters are a maximum of 25 players, with 9 starters. Starting lineups consist of 1 QB, 2 RBs, 3 WRs, 1 TE, and 2 RB/WR/TE flex spots.
+Rosters are a maximum of 25 players + 5 taxi squad players, with 9 starters. Starting lineups consist of 1 QB, 2 RBs, 3 WRs, 1 TE, and 2 RB/WR/TE flex spots.
+
+During the season, 3 IR spots are available.
 
 During the off-season, the roster limit will increase to 30. Teams must get their roster down to the in-season limit of 25 by the Sunday before week 1 at 6pm. If a franchise is over this limit when the deadline passes, players will be forcefully dropped to comply, in last-in-first-out order.
 
@@ -44,6 +45,45 @@ If a player retires, they no longer take up a roster spot of the owning team. Ho
 If the roster is full, the owner can either release the player immediately, or take a maximum of 7 days from the day of unretirement to free up a roster spot for the un-retired player, otherwise they will be returned to the pool of free agents.
 
 ### 1.3 Taxi squads
+
+5 spots are available in addition to normal rosters for taxi squad players. These players can’t be used in your starting lineup.
+
+Only rookies can be added to your taxi squad, and they can remain there until the end of their 2nd season in the NFL. At that point, they must be either promoted to your active roster or dropped.
+
+Rookies acquired during the Free Agent Auction are taxi-squad eligible.
+
+Players cannot be added to taxi squads during the season. Adding is locked from the beginning of week 1.
+
+Players can be promoted to the active roster at any time.
+
+Players can be traded, but must be placed on the active roster of the receiving team.
+
+#### 1.3.1 Claiming players
+
+Players on taxi squads can be claimed by other teams.
+
+The player must be placed on the active roster of the receiving team.
+
+To make a claim on a player, a message must be sent to the UK Dynasty Taxi Squad Claims chat on GroupMe, clearly stating the player that they wish to claim.
+
+The owning team will have 72 hours from the time of the claim to choose between the following options:
+
+- promote the player to their active roster
+- allow the player to be claimed and receive compensation in the form of a draft pick based on where they were drafted in our rookie draft.
+
+Compensation:
+
+| Round drafted | Compensation |
+|-------|--------|
+| 1st | 1st and 2nd |
+| 2nd | 1st |
+| 3rd | 2nd |
+| 4th | 3rd |
+| Undrafted | 4th |
+
+If a team doesn't have the pick required to compensate, they can offer a pick from a higher round. Only picks for the next rookie draft are valid compensation - future picks don't count.
+
+### 1.3.2 
 
 ## 2. SCHEDULE
 
