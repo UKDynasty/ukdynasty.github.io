@@ -13,6 +13,7 @@ published: true
 **Wed 14th Feb, midnight:** Owners' Meeting voting closes  
 **Thu 1st Mar, earlier if possible:** New season begins, move to MFL  
 **Sat 26th May, midday:** Rookie draft begins  
+**July 1st:** Free agent auction begins
 
 ### Recurring seasonal dates
 
@@ -26,5 +27,7 @@ published: true
 **March 1st (or as soon as MFL re-opens for the season, whichever is earlier):** New season begins, switchover to MyFantasyLeague for the off-season. Roster limit increases to 30.  
 **Last Saturday in May:** Rookie draft begins, midday  
 **Mid-June:** Schedule released  
+**July 1st:** Free agent auction begins
 **Mid-July/early August:** Move back to ESPN  
-**Sunday before week 1, 6pm:** Rosters cut down to 25
+**Sunday before week 1, 6pm:** Rosters cut down to 25  
+**Beginning of week 1:** Taxi squads locked
