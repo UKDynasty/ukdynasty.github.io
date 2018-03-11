@@ -49,7 +49,7 @@ If the roster is full, the owner can either release the player immediately, or t
 
 5 spots are available in addition to normal rosters for taxi squad players. These players can’t be used in your starting lineup.
 
-To designate a player to the taxi squad, a message must be sent by the owner to the **UK Dynasty Taxi Squads** chat on GroupMe, clearly stating the player that they wish to place on their taxi squad, within 7 days of acquiring the player in question. 
+To designate a player to the taxi squad, a post must be made on the **Taxi Squad Designation** thread on the ESPN league messageboard, clearly stating the player that they wish to place on their taxi squad, within 7 days of acquiring the player in question. 
 
 Players cannot be added to taxi squads during the season. Adding is locked from the beginning of week 1 until the rookie draft.
 
