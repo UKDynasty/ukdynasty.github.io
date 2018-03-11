@@ -49,30 +49,40 @@ If the roster is full, the owner can either release the player immediately, or t
 
 5 spots are available in addition to normal rosters for taxi squad players. These players can’t be used in your starting lineup.
 
+To designate a player to the taxi squad, a message must be sent by the owner to the **UK Dynasty Taxi Squads** chat on GroupMe, clearly stating the player that they wish to place on their taxi squad, within 7 days of acquiring the player in question. 
+
+Players cannot be added to taxi squads during the season. Adding is locked from the beginning of week 1 until the rookie draft.
+
+The commissioner will maintain a list of each team's taxi squads on the league [Google Sheet](https://docs.google.com/spreadsheets/d/1tsYQSMBHSD3nFUQS6urrnqYPJQs94c-IdjJi1CznX1c), under the *Taxi squads - \[year\]* tab.
+
 Only rookies can be added to your taxi squad, and they can remain there until the end of their 2nd season in the NFL. At that point, they must be either promoted to your active roster or dropped.
 
 Rookies acquired during the Free Agent Auction are taxi-squad eligible.
 
-Players cannot be added to taxi squads during the season. Adding is locked from the beginning of week 1.
-
 Players can be promoted to the active roster at any time.
+
+Once a player is on a team's active roster, they cannot be demoted back to the taxi squad, and that taxi squad spot cannot be used for the rest of the season.
 
 Players can be traded, but must be placed on the active roster of the receiving team.
 
 #### 1.3.1 Claiming players
 
-Players on taxi squads can be claimed by other teams.
+Players on taxi squads can be claimed by other teams. To make a claim on a player, a message must be sent to the **UK Dynasty Taxi Squads** chat on GroupMe, clearly stating the player that they wish to claim.
+
+Claims can only be made on Tuesday or Wednesday during the regular season.
 
 The player must be placed on the active roster of the receiving team.
-
-To make a claim on a player, a message must be sent to the UK Dynasty Taxi Squad Claims chat on GroupMe, clearly stating the player that they wish to claim.
 
 The owning team will have 72 hours from the time of the claim to choose between the following options:
 
 - promote the player to their active roster
-- allow the player to be claimed and receive compensation in the form of a draft pick based on where they were drafted in our rookie draft.
+- allow the player to be claimed and receive compensation in the form of a draft pick based on where they were drafted in our rookie draft
 
-Compensation:
+If a player is traded during the 72 hour window, the any claims are void.
+
+If more than one team makes a claim on the same player on the same day, priority goes in reverse record order.
+
+**Compensation:**
 
 | Round drafted | Compensation |
 |-------|--------|
@@ -82,7 +92,9 @@ Compensation:
 | 4th | 3rd |
 | Undrafted | 4th |
 
-If a team doesn't have the pick required to compensate, they can offer a pick from a higher round. Only picks for the next rookie draft are valid compensation - future picks don't count.
+If a team doesn't have the pick required to compensate, they can offer a pick from a higher round. Only picks for the next rookie draft are valid compensation - future picks don't count. Therefore, teams must have at least one available pick in the next rookie draft to make a claim for a player.
+
+If the team claiming the player has multiple picks available in that round, then it's up to that team to decide which pick to give up as compensation.
 
 ## 2. SCHEDULE
 
