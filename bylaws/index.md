@@ -49,19 +49,17 @@ If the roster is full, the owner can either release the player immediately, or t
 
 5 spots are available in addition to normal rosters for taxi squad players. These players can’t be used in your starting lineup.
 
-To designate a player to the taxi squad, a post must be made on the **Taxi Squad Designation** thread on the ESPN league messageboard, clearly stating the player that they wish to place on their taxi squad, within 7 days of acquiring the player in question. For players acquired via the rookie draft, that 7 days begins at the culmination of the draft.
+To designate a player to the taxi squad, a post must be made on the **Taxi Squad Designation** thread on the ESPN league messageboard, clearly stating the player that they wish to place on their taxi squad, prior to the designation deadline, the Sunday before Week 1 of the season.
 
-Players cannot be added to taxi squads during the season. Adding is locked from the beginning of week 1 until the rookie draft.
+Players cannot be added to taxi squads during the season.
 
 The commissioner will maintain a list of each team's taxi squads on the league [Google Sheet](https://docs.google.com/spreadsheets/d/1tsYQSMBHSD3nFUQS6urrnqYPJQs94c-IdjJi1CznX1c), under the *Taxi squads - \[year\]* tab.
 
-Only rookies can be added to your taxi squad, and they can remain there until the end of their 2nd season in the NFL. At that point, they must be either promoted to your active roster or dropped.
+Only rookies can be added to your taxi squad, and they can remain there until the end of their 2nd season in the NFL. If a player is promoted during their 1st season, they therefore cannot be designated to the taxi squad for their 2nd year.
 
 Rookies acquired during the Free Agent Auction are taxi-squad eligible.
 
-Players can be promoted to the active roster at any time.
-
-Once a player is on a team's active roster, they cannot be demoted back to the taxi squad, and that taxi squad spot cannot be used for the rest of the season.
+Players can be promoted to the active roster at any time. Once a player is on a team's active roster, they cannot be demoted back to the taxi squad, and that taxi squad spot cannot be used for the rest of the season.
 
 Players can be traded, but must be placed on the active roster of the receiving team.
 

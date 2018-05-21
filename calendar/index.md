@@ -29,5 +29,5 @@ published: true
 **Mid-June:** Schedule released  
 **July 1st:** Free agent auction begins  
 **Mid-July/early August:** Move back to ESPN  
-**Sunday before week 1, 6pm:** Rosters cut down to 25  
+**Sunday before week 1, 6pm:** Rosters cut down to 25, taxi squad designation deadline  
 **Beginning of week 1:** Taxi squads locked
