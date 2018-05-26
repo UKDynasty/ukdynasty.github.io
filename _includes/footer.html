@@ -1,31 +1,51 @@
-<footer class="site-footer">
-
-  <div class="wrapper">
-
-    <h2 class="footer-heading">ESPN League Quick Links</h2>
-
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li><a href="http://www73.myfantasyleague.com/2017/home/61991">MFL Off-season League Homepage</a></li>
-          <li><a href="http://games.espn.com/ffl/leagueoffice?leagueId=7168&seasonId=2016">League Homepage</a></li>
-          <li><a href="http://games.espn.com/ffl/messageboard?leagueId=7168&typeId=0&topicId=0">Messageboard</a></li>
-          <li><a href="http://games.espn.com/ffl/scoreboard?leagueId=7168&seasonId=2016">Scoreboard</a></li>
-          <li><a href="http://games.espn.com/ffl/standings?leagueId=7168&seasonId=2016">Standings</a></li>
-          <li><a href="http://games.espn.com/ffl/tools/viewmessage?leagueId=7168&typeId=0&topicId=0&messageId=69">Report a Draft Pick Trade</a></li>
+<footer>
+  <div class="container beautiful-jekyll-footer">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <ul class="list-inline text-center footer-links">
+          {%- for link in site.social-network-links -%}
+            {%- assign curkey = link[0] -%}
+            {%- assign element = site.data.SocialNetworks[curkey] -%}
+            <li>
+            {%- if curkey == 'rss' -%}
+              <a href="{{ '/feed.xml' | prepend: site.baseurl }}" title="{{ element.name }}">
+            {%- elsif curkey == 'yelp' -%}
+              <a href="https://{{ site.social-network-links[curkey] }}.yelp.com" title="{{ element.name }}">
+            {%- else -%}
+              <a href="{{element.baseURL}}{{ site.social-network-links[curkey] }}" title="{{ element.name }}">
+            {%- endif -%}
+                <span class="fa-stack fa-lg" aria-hidden="true">
+                  <i class="fa fa-circle fa-stack-2x"></i>
+                  <i class="fa {{ element.icon }} fa-stack-1x fa-inverse"></i>
+                </span>
+                <span class="sr-only">{{ element.name }}</span>
+              </a>
+            </li>
+          {%- endfor -%}
         </ul>
-      </div>
+      <p class="copyright text-muted">
+      {{ site.author.name }}
+      &nbsp;&bull;&nbsp;
+      {{ site.time | date: '%Y' }}
 
-      <div class="footer-col footer-col-2">
-        <p>This website is managed and hosted on <a href="https://www.github.com">Github</a>:</p>
-        <p>{% include icon-github.html username=site.github_username %}</p>
-      </div>
+      {% if site.url-pretty %}
+      &nbsp;&bull;&nbsp;
+      <a href="{{ site.url }}">{{ site.url-pretty }}</a>
+      {% endif %}
 
-      <div class="footer-col footer-col-3">
-        <p>{{ site.description | escape }}</p>
+      {% if site.matomo %}
+        {% if site.matomo.opt-out %}
+          &nbsp;&bull;&nbsp;
+          <a href="http://{{- site.matomo.uri -}}/index.php?module=CoreAdminHome&action=optOut" target="_blank" class="text_muted">Do-not-Track</a>
+        {% endif %}
+      {% endif%}
+      </p>
+          <!-- Please don't remove this, keep my open source work credited :) -->
+    <p class="theme-by text-muted">
+      Theme by
+      <a href="http://deanattali.com/beautiful-jekyll/">beautiful-jekyll</a>
+    </p>
       </div>
     </div>
-
   </div>
-
 </footer>

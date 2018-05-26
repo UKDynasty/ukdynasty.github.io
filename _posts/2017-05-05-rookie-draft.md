@@ -1,10 +1,10 @@
 ---
 published: true
+title: Rookie Draft 2017
 layout: post
 date: 2017-05-05 00:00:00
 categories: league-news
 ---
-## Rookie Draft 2017
 
 The rookie draft will begin at midday (UK time, to be clear) on Saturday 27th May. 
 

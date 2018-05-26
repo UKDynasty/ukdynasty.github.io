@@ -1,10 +1,10 @@
 ---
 published: true
 layout: post
+title: The birth of Erin, the UK Dynasty chat bot of the future
 date: 2017-05-09 00:00:00
 categories: league-news
 ---
-## The birth of Erin, the UK Dynasty chat bot of the future
 
 On this, the anniversary of the UK Dynasty startup draft, we'd like to introduce Erin, the new league chat bot.
 
