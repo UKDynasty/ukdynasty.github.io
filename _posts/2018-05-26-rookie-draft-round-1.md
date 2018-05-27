@@ -1,8 +1,8 @@
 ---
-published: false
-title: "Rookie Draft 2018 - Round 1"
+published: true
+title: "Rookie Draft 2018 - Round 1 recap"
 layout: post
-date: 2018-05-26T01:00:00.000Z
+date: 2018-05-27T00:00:00.000Z
 categories: league-news
 ---
 
@@ -12,22 +12,26 @@ categories: league-news
 1.02: **Derrius Guice**, RB, WAS - Hereford Chargers  
 1.03: **Ronald Jones II**, RB, TBB - Andover Sandslashers  
 1.04: **Rashaad Penny**, RB, SEA - Wigan Wombats  
-1.05:   
-1.06:   
-1.07:   
-1.08:   
-1.09:   
-1.10:       
-1.11:   
-1.12:  
+1.05: **Sony Michel**, RB, NEP - Andover Sandslashers  
+1.06: **Nick Chubb**, RB, CLE - Nottingham Bandits  
+1.07: **Calvin Ridley**, WR, ATL - Hereford Chargers  
+1.08: **Kerryon Johnson**, RB, DET - Oxford Seahawks  
+1.09: **Christian Kirk**, WR, ARI - Andover Sandslashers  
+1.10: **Royce Freeman**, RB, DEN - Nottingham Bandits  
+1.11: **D.J. Moore**, WR, CAR - Gateshead Spartans  
+1.12: **Michael Gallup**, WR, DAL - Oxford Seahawks 
 
-## Day 1 - Saturday 25th May 2018
+## Day 1 - Saturday 26th May 2018
 
 ### Pick 1 - Irish Flyers, Saquon Barkley
 
-As the clock ticked over to midday, crescendo turned to anticlimax as the Irish Flyers front office were otherwise engaged. It took 150 minutes for word to come out that the Flyers weren't going to pull any surprises, selecting Saquon Barkley with the pick that they acquired via trade in dramatic fashion just an hour before the draft began.
+As the clock ticked over to midday, crescendo turned to anticlimax with radio silence from the Irish Flyers front office. Rumours flew around the media that the Flyers were looking to flip the pick that they [acquired via trade in dramatic fashion]({{ site.baseurl }}{% post_url 2018-05-26-stunner-bandits-trade-number-1-pick %}) just an hour before the draft began. It took 150 minutes for word to finally come that there would be no further surprises, and Saquon Barkley's name was called to the sound of wild celebration from the Flyers' fanbase.
 
-The Flyers management have been unavailable for comment due to other commitments (congratulations), but there's little to say other than that Barkley is the most sure-thing 1.01 rookie pick since the last sure-thing 1.01 rookie pick.
+There's little to say other than that Barkley is the most sure-thing 1.01 rookie pick since the last sure-thing 1.01 rookie pick.
+
+The Flyers front office explained that they see Barkley as the missing piece to take them one step further than 2017's North divisional final loss. "I’m not one to buy into rookie hype, but I feel my team is very close to getting over the line." said owner Dermy McAlinden. "Zeke is great but his QB isn’t the greatest as shown last year and he has no receivers on that team so I feel the box will be stacked more than usual this coming year."
+
+"You could say the same for Barkley, but then teams are at risk of leaving OBJ open. I feel the Giants have more about them. I only really had late picks this year and they’re just daft (sic) throws anyway so why not get the best player in the draft?"
 
 ### Pick 2 - Hereford Chargers, Derrius Guice
 
@@ -37,9 +41,15 @@ No NFL draft-style fall for Derrius here. Taken as the seventh running back off 
 
 Guice slots into an RB-needy Hereford backfield led by Isaiah Crowell, Latavius Murray and a selection of backs with the surname Williams.
 
+*Edit: the Chargers ruined that pithy final paragraph by trading away Jamaal Williams to the Coventry Eagles for Derek Carr mid-draft.*
+
 ### Pick 3 - Andover Sandslashers, Ronald Jones II
 
-The Slashers made their first of two picks in the top five, selecting Tampa Bay RB Ronald Jones. 
+The Slashers made their first of two picks in the top five, selecting Tampa Bay RB Ronald Jones. Jones' situation in Tampa is undeniably one of the better spots of any of the backs in this class, with a gaping hole above Peyton Barber and Charles Sims on the depth chart at the position.
+
+"Some may say a reach at number 3, but we had this young man very high on our boards." said owner Scott Westwood in the post-first round press conference. "We love his opportunity and skill set."
+
+It was expected that the Sandslashers would make running back a priority in this draft, with not much behind Jaguars star Leonard Fournette at the position.
 
 ### Pick 4 - Wigan Wombats, Rashaad Penny RB
 
@@ -49,11 +59,17 @@ With the first trade during the draft, the Wigan Wombats gave up receiver Jarvis
 
 "The Wombats war room is very pleased with today's work and will now be heading off to the pub to celebrate."
 
+Penny was a somewhat surprising first round pick in the NFL draft, and the Wombats will hope that the noises coming out of Seattle regarding his possible three-down bellcow usage are nothing but abject honesty.
+
 ### Pick 5 - Andover Sandslashers, Sony Michel RB
 
 The Sandslashers' front office have a tumultuous relationship with the real-life New England Patriots, but that didn't stop them zeroing in on first-round running back Sony Michel with their second pick of the top five.
 
 Michel staked his claim for being a coveted rookie pick with some electrifying performances as part of the shared Georgia backfield with Nick Chubb (see Pick 6), and the Slashers obviously shared the Patriots' opinions on the 23-year-old.
+
+"At number 5 we felt this was a bargain. Although he has some off the field issues such as being a Patriots RB, we feel we can take the risk" said front office representative Scott Westwood.
+
+Andover will hope that Jones and Michel can propel them to their first ever winning season, after winning only 9 out of their 26 matchups in 2016 and 2017.
 
 ### Pick 6 - Nottingham Bandits, Nick Chubb RB
 
@@ -65,7 +81,11 @@ The Georgia backfield go back-to-back(field). Chubb has been in the top 6 rookie
 
 ### Pick 7 - Hereford Chargers, Calvin Ridley WR
 
+A somewhat divisive prospect (a common theme amongst this year's receiver class), nobody can deny the positive that is Ridley's landing spot opposite Julio Jones with a settled situation at quarterback in Matt Ryan.
+
 "I'll be honest, I had no idea who to pick," Chargers GM Jason Reese admitted candidly. "But on research, I felt that his pairing with Ryan and Jones would be a great chance for him to excel."
+
+The Chargers will be hoping that Guice and Ridley can shore up both positions after missing out on the playoffs in 2016 with a 5-8 record.
 
 ### Pick 8 - Oxford Seahawks, Kerryon Johnson RB
 
@@ -75,7 +95,9 @@ With a fairly sparse running back corps and the recent Mark Ingram suspension ne
 
 ### Pick 9 - Andover Sandslashers, Christian Kirk WR
 
+After stocking up on RBs with Ronald Jones and Sony Michel earlier, the Sandslashers elected to add talent at receiver with their third pick in the first round, with Arizona Cardinals slot pass-catcher Christian Kirk.
 
+Kirk has Larry Fitzgerald's big boots to watch and perhaps fill, and Slashers boss Scott Westwood believes that he won't struggle to reach his potential. "At number 9 and with only one receiver gone, we wanted our man. He will learn from the best and his opportunity and skill will make him a face of the franchise", he said.
 
 ### Pick 10 - Nottingham Bandits, Royce Freeman RB
 
@@ -89,9 +111,12 @@ The first receiver off the board in the NFL draft, Moore had to wait for his tur
 
 Moore adds some much-needed youth to a Spartans receiving corps that stars ageing elites Julian Edelman and Larry Fitzgerald.
 
-Spartans top brass Chris Copeland said "As the draft went by we saw plenty of opportunities to pull the trigger on trades both back and forward to get players we wanted. We are more than happy to have welcomed Jarvis (Landry) to the Spartan army early in the draft, and now to add DJ into the fold the Spartans are ecstatic."
+Spartans top brass Chris Copeland said "As the draft went by we saw plenty of opportunities to pull the trigger on trades both back and forward to get players we wanted. We are more than happy to have welcomed Jarvis (Landry) to the Spartan army earlier in the draft, and now to add D.J. into the fold, the Spartans are ecstatic."
 
-"He joins his team mate Christian McCaffrey as the only rookies to be taken in the 1st round in Spartans history and we hope he can have as much success as his fellow Panther during his time in Gateshead".
+"He joins his teammate Christian McCaffrey as the only rookies to be taken in the 1st round in Spartans history and we hope he can have as much success as his fellow Panther during his time in Gateshead".
 
 ### Pick 12 - Oxford Seahawks, Michael Gallup WR
 
+**TRADE**. The Seahawks gave up two second round picks (2.04 and 2.10) to the Derby Otters to move back into the first round, selecting Cowboys receiver Michael Gallup.
+
+"We were big fans of Gallup before the NFL draft and his landing spot in Dallas gives him a great opportunity to contribute early and often," said GM Dan Abrey. "We see him as the best all-round receiver in this class, and were happy to move up and grab him here. The Cowboys have lost a lot of receiving targets in Dez Bryant and Jason Witten, a fellow Oxford Seahawk until his retirement, this off-season. We hope that Michael can fill that hole and feel that he has the talent to do so, after a productive college career."
