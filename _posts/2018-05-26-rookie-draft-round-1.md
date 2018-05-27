@@ -6,6 +6,8 @@ date: 2018-05-27T00:00:00.000Z
 categories: league-news
 ---
 
+The second rookie draft in UK Dynasty history got underway on Saturday. [Last year's first round]({{ site.baseurl }}{% post_url 2017-05-28-rookie-draft-first-round %}) was a drama-laden spectacle, and the 2018 version did not disappoint.
+
 ## Round 1 in brief
 
 1.01: **Saquon Barkley**, RB, NYG - Irish Flyers  
