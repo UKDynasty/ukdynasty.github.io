@@ -2,7 +2,7 @@
 published: true
 title: "Championz relocate to Flitwick, announce new ownership"
 layout: post
-date: 2018-05-26T00:00:00.000Z
+date: 2018-06-05T00:00:00.000Z
 categories: league-news
 ---
 
