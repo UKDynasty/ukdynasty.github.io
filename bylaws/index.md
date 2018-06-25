@@ -166,7 +166,9 @@ An auction of all available free agents will take place each year, starting on J
 
 All owners will begin the auction with a $200 budget that will act as both their auction budget and their FAAB budget for the whole season. There is no minimum or maximum amount that owners must spend during the auction.
 
-All owners can open auctions on players, with the bidding ending once no bid has been made in 8 hours - highest bid wins that player.
+All owners can open auctions on players, with the bidding ending once no bid has been made in 18 hours - highest bid wins that player.
+
+An explanation of the rules of the 2018 auction can be found [here]({{ site.baseurl }}{% post_url 2018-06-25-free-agency-auction-rules %})
 
 ### 4.3 During the off-season
 
