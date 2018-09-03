@@ -67,7 +67,7 @@ Players can be traded, but must be placed on the active roster of the receiving 
 
 Players on taxi squads can be claimed by other teams. To make a claim on a player, a message must be sent to the **UK Dynasty Taxi Squads** chat on GroupMe, clearly stating the player that they wish to claim.
 
-Claims can only be made on Tuesday or Wednesday during the regular season.
+Claims can only be made between Tuesday at 10.00am and Wednesday at 11.59pm during the regular season.
 
 The player must be placed on the active roster of the receiving team.
 
@@ -78,7 +78,7 @@ The owning team will have 72 hours from the time of the claim to choose between 
 
 If a player is traded during the 72 hour window, the any claims are void.
 
-If more than one team makes a claim on the same player on the same day, priority goes in reverse record order.
+If more than one team makes a claim on the same player on the same day, priority goes to the first owner to make a claim.
 
 **Compensation:**
 
