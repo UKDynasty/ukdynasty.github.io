@@ -61,14 +61,14 @@ Gateshead Spartans - 🏆
 ### Roll of Honour
 
 Sandslashers 🏆🏆🏆🏆   
-Fireflies 🏆  
 Flyers 🏆🏆  
+Fireflies 🏆  
 Pythons 🏆  
 Bandits 🏆   
-Chargers  
 Eagles 🏆  
+Spartans 🏆  
+Chargers  
 Otters  
 Packers  
 Seahawks  
-Spartans 🏆  
 Wombats  
