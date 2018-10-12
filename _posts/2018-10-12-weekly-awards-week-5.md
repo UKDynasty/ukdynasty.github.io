@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Phil's Weekly Awards - Week 5"
+title: "Phil's Weekly Awards - Week 5: Bench your stars!"
 layout: post
 date: 2018-10-12T00:00:00.000Z
 categories: league-news awards
