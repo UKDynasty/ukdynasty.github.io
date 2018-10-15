@@ -23,7 +23,7 @@ published: true
 ### Champions of the North
 
 **2016:**  Gateshead Spartans  
-**2017:** Irish Flyers
+**2017:** Derby Otters
 
 ### Regular Season South Division Winners
 
