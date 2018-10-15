@@ -15,21 +15,27 @@ published: true
 **2016:**  Gateshead Spartans  
 **2017:** Derby Otters
 
-### South Division
+### Champions of the South
 
 **2016:**  Coventry Eagles  
 **2017:** Coventry Eagles
 
-### North Division
+### Champions of the North
 
 **2016:**  Gateshead Spartans  
 **2017:** Irish Flyers
 
-## Records
+### Regular Season South Division Winners
 
-Stats are kept throughout the season on [this Google Sheet](http://bit.do/UKDynastyLeagueStats), lovingly coordinated by Hereford Chargers owner Jason Reese. For franchise records for all-time and each season, see below.
+**2016:**  Coventry Eagles  
+**2017:** Coventry Eagles
 
-### All-time
+### Regular Season North Division Winners
+
+**2016:**  Derby Otters  
+**2017:** Irish Flyers
+
+### All-time Records
 
 **Most championships won:** 1  
 (Gateshead Spartans, 2016 & Derby Otters, 2017)  
@@ -92,4 +98,19 @@ Stats are kept throughout the season on [this Google Sheet](http://bit.do/UKDyna
 **Most consecutive matchups lost:** 6  
 (Nottingham Bandits, W1-W6)
 
+#### 2018
 
+**Most weekly points scored by one franchise:** 173.4  
+(Coventry Eagles v Oxford Seahawks, W4)
+
+**Most weekly points scored by one individual starter:** 38.8  
+(Tyreek Hill, Oxford Pythons, W1 & Patrick Mahomes, Gateshead Spartans, W2)
+
+**Fewest weekly points scored by one franchise:** 60.3  
+(Oxford Pythons, W5)
+
+**Most consecutive matchups won:** 5  
+(Irish Flyers & Coventry Eagles, W1-W5)
+
+**Most consecutive matchups lost:** 5  
+(Flitwick Fireflies, W1-W5)
