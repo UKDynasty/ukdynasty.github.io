@@ -63,6 +63,8 @@ Players can be promoted to the active roster at any time. Once a player is on a 
 
 Players can be traded, but must be placed on the active roster of the receiving team.
 
+Should an owner include a taxi squad player in their starting lineup illegally, they will forfeit all points scored by that player in that gameweek, and be forced to promote the player from their taxi squad before the start of the next gameweek.
+
 #### 1.3.1 Claiming players
 
 Players on taxi squads can be claimed by other teams. To make a claim on a player, a message must be sent to the **UK Dynasty Taxi Squads** chat on GroupMe, clearly stating the player that they wish to claim.
