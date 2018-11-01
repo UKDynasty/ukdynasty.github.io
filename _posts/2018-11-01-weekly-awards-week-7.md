@@ -10,7 +10,7 @@ categories: league-news awards
 
 I’ll leave this here:
 
-![Ryan Switzer's 2018 game log]({{site.baseurl}}/images/switzer-week-8.png)
+![Ryan Switzer's 2018 game log]({{site.baseurl}}/images/switzer-week-8-2018.png)
 
 Oxford Pythons – 🏆🏆  
 Flitwick Fireflies – 🏆  
