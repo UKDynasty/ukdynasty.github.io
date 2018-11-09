@@ -2,7 +2,7 @@
 published: true
 title: "Phil's Weekly Awards - Week 9"
 layout: post
-date: 2018-11-01T00:00:00.000Z
+date: 2018-11-09T00:00:00.000Z
 categories: league-news awards
 ---
 
