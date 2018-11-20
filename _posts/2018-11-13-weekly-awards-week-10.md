@@ -3,7 +3,7 @@ published: true
 title: "Phil's Weekly Awards - Week 10: Grudge matches"
 layout: post
 date: 2018-11-13T00:00:00.000Z
-categories: league- news awards
+categories: league-news awards
 ---
 
 Grudge matches this week. The rematch of last year’s final was a bit of a let down but there was a battle of frenemies between Chris vs Scott and a battle of the Commish vs the controversial add to the group (just messing Dermy!) and those 2 matches were the best this week.
