@@ -1,10 +1,10 @@
-- - - 
+---
 published: true
-title: "Phil's Weekly Awards - Week 11"
+title: "Phil's Weekly Awards - Week 11: It's all about the playoffs"
 layout: post
 date: 2018-11-20T00:00:00.000Z
 categories: league-news awards
-- - - 
+---
 
 It’s all about the playoffs now and results this week have made things a little more interesting.
 
