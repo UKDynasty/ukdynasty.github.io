@@ -24,7 +24,7 @@ The Wombats and Otters miss the playoffs for the first time in franchise history
 #### South
 
 **Andover Sandslashers (7-6) v Chippenham Packers (6-7)**  
-winner faces Coventry Eagles (11-2) in the South final
+winner faces Coventry Eagles (12-1) in the South final
 
 Week 14 will be a rematch of Week 13, as the Packers are coming off a 86.7-80.6 loss to their playoff rivals.
 
