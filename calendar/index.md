@@ -5,14 +5,14 @@ permalink: /calendar
 published: true
 ---
 
-### 2018
+### 2019
 
-**Thu 1st Feb:** Owners' Meeting begins - discussion of suggestions for rule changes  
-**Mon 5th Feb:** Trading re-opens  
-**Thu 8th Feb:** Voting opens on suggested rule changes  
-**Wed 14th Feb, midnight:** Owners' Meeting voting closes  
-**Thu 1st Mar, earlier if possible:** New season begins, move to MFL    
-**Sat 26th May, midday:** Rookie draft begins  
+**Thu 31st Jan:** Owners' Meeting begins - discussion of suggestions for rule changes  
+**Mon 4th Feb:** Trading re-opens  
+**Thu 7th Feb:** Voting opens on suggested rule changes  
+**Wed 13th Feb, midnight:** Owners' Meeting voting closes  
+**Fri 1st Mar, earlier if possible:** New season begins, move to MFL    
+**Sat 25th May, midday:** Rookie draft begins  
 **July 1st:** Free agent auction begins
 
 ### Recurring seasonal dates
