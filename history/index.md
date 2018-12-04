@@ -13,27 +13,32 @@ published: true
 ### Britannia Bowl
 
 **2016:**  Gateshead Spartans  
-**2017:** Derby Otters
+**2017:** Derby Otters  
+**2018:** *TBD*
 
 ### Champions of the South
 
 **2016:**  Coventry Eagles  
-**2017:** Coventry Eagles
+**2017:** Coventry Eagles  
+**2018:** *TBD*
 
 ### Champions of the North
 
 **2016:**  Gateshead Spartans  
-**2017:** Derby Otters
+**2017:** Derby Otters  
+**2018:** *TBD*
 
 ### Regular Season South Division Winners
 
 **2016:**  Coventry Eagles  
-**2017:** Coventry Eagles
+**2017:** Coventry Eagles  
+**2018:** Coventry Eagles
 
 ### Regular Season North Division Winners
 
 **2016:**  Derby Otters  
-**2017:** Irish Flyers
+**2017:** Irish Flyers  
+**2018:** Irish Flyers
 
 ### All-time Records
 
@@ -43,11 +48,11 @@ published: true
 **Most regional finals won:** 2  
 (Coventry Eagles, South, 2016 & 2017)  
 
-**Most playoff appearances:**  2  
-(Coventry Eagles, Derby Otters, Wigan Wombats)   
+**Most playoff appearances:**  3  
+(Coventry Eagles)   
 
-**Most weekly points scored by one franchise:** 184.6  
-(Coventry Eagles v Hereford Chargers, W12 2017)  
+**Most weekly points scored by one franchise:** 201.6  
+(Nottingham Bandits v Hereford Chargers, W10 2018)  
 
 **Most weekly points scored by one individual starter:**  49.8  
 (Le'Veon Bell, Hereford Chargers, Playoffs W1 2016)   
@@ -100,17 +105,17 @@ published: true
 
 #### 2018
 
-**Most weekly points scored by one franchise:** 173.4  
-(Coventry Eagles v Oxford Seahawks, W4)
+**Most weekly points scored by one franchise:** 201.6  
+(Nottingham Bandits v Hereford Chargers, W10)
 
-**Most weekly points scored by one individual starter:** 38.8  
-(Tyreek Hill, Oxford Pythons, W1 & Patrick Mahomes, Gateshead Spartans, W2)
+**Most weekly points scored by one individual starter:** 41.2  
+(Christian McCaffrey, Gateshead Spartans, W12)
 
-**Fewest weekly points scored by one franchise:** 60.3  
-(Oxford Pythons, W5)
+**Fewest weekly points scored by one franchise:** 48   
+(Hereford Chargers, W13)
 
-**Most consecutive matchups won:** 5  
-(Irish Flyers & Coventry Eagles, W1-W5)
+**Most consecutive matchups won:** 7  
+(Coventry Eagles, W7-W13)
 
-**Most consecutive matchups lost:** 5  
-(Flitwick Fireflies, W1-W5)
+**Most consecutive matchups lost:** 10  
+(Hereford Chargers, W6-W13)
