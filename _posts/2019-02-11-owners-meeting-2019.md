@@ -13,7 +13,7 @@ So, here we are. We've got 4 possible rule changes to vote on this year - let me
 - Flyers: Allow zero dollar bids for waiver bids (current rule: $1 minimum)
 - Flyers: Add an extra IR spot (current rule: 3 IR spots during the season)
 - Wombats: Re-align the divisions and add an extra 'Midlands' division. This is a complex idea requiring its own page of explanation: [click here for details](/misc/division-shakeup-concept)
-- Flyers: Replace the 3rd WR spot in starting lineups with a 3rd Flex spot (current rule: start 3 WRs, 2 Flex)
+- Flyers: Replace the 3rd WR spot in starting lineups with a 3rd Flex spot (current rule: start 3 WRs, 2 Flex) **NOTE**: this change would take effect from the 2020 season onwards
 - Pythons: Remove divisions entirely, just have one division of 12 (current rule: 2 divisions of 6)
 - Seahawks: Move league permanently to MyFantasyLeague, with owners splitting $69.95 cost annually (£4.51 each, on current rates)
 
