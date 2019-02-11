@@ -8,7 +8,7 @@ categories: league-news
 
 I was trying to wait for ESPN to re-open following its incessant annual maintenance before kicking off the Owners' Meeting, but apparently they struggle to get a bit of website maintenance done within a few days, despite being 80% owned by a $153bn company.
 
-So, here we are. We've got 4 possible rule changes to vote on this year - let me know ASAP if you have anything else you'd like to be taken into consideration.
+So, here we are. We've got 6 possible rule changes to vote on this year - let me know ASAP if you have anything else you'd like to be taken into consideration.
 
 - Flyers: Allow zero dollar bids for waiver bids (current rule: $1 minimum)
 - Flyers: Add an extra IR spot (current rule: 3 IR spots during the season)
