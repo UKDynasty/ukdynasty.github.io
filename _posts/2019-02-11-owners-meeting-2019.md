@@ -2,7 +2,7 @@
 published: true
 title: "Owners' Meeting 2019: Potential rule changes"
 layout: post
-date: 2018-02-01T00:00:00.000Z
+date: 2019-02-11T00:00:00.000Z
 categories: league-news
 ---
 
