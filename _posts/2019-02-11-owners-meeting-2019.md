@@ -10,11 +10,12 @@ I was trying to wait for ESPN to re-open following its incessant annual maintena
 
 So, here we are. We've got 4 possible rule changes to vote on this year - let me know ASAP if you have anything else you'd like to be taken into consideration.
 
-- Allow zero dollar bids for waiver bids (current rule: $1 minimum)
-- Add an extra IR spot (current rule: 3 IR spots during the season)
-- Re-align the divisions and add an extra 'Midlands' division. This is a complex idea requiring its own page of explanation: [click here for details](/misc/division-shakeup-concept)
-- Replace the 3rd WR spot in starting lineups with a 3rd Flex spot (current rule: start 3 WRs, 2 Flex)
-- Remove divisions entirely, just have one division of 12 (current rule: 2 divisions of 6)
+- Flyers: Allow zero dollar bids for waiver bids (current rule: $1 minimum)
+- Flyers: Add an extra IR spot (current rule: 3 IR spots during the season)
+- Wombats: Re-align the divisions and add an extra 'Midlands' division. This is a complex idea requiring its own page of explanation: [click here for details](/misc/division-shakeup-concept)
+- Flyers: Replace the 3rd WR spot in starting lineups with a 3rd Flex spot (current rule: start 3 WRs, 2 Flex)
+- Pythons: Remove divisions entirely, just have one division of 12 (current rule: 2 divisions of 6)
+- Seahawks: Move league permanently to MyFantasyLeague, with owners splitting $69.95 cost annually (£4.51 each, on current rates)
 
 If you have any questions about any of the suggestions, please discuss in the league chat.
 
@@ -25,3 +26,4 @@ Extra IR spot: FOR/AGAINST
 Extra Flex instead of 3rd WR: FOR/AGAINST  
 Division re-alignment: FOR/AGAINST  
 Remove divisions: FOR/AGAINST  
+Move league to MFL: FOR/AGAINST
