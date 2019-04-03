@@ -58,7 +58,7 @@ Another team who could use help at receiver. Metcalf's team-mate in college, Ind
 
 ### 1.07 - Hereford Chargers
 
-![](/images/mock-draft-2019/noah-fant.jpeg)
+![](/images/mock-draft-2019/noah-fant.png)
 
 #### Noah Fant, TE, Iowa
 
@@ -88,7 +88,7 @@ Another team who could use help at receiver. Metcalf's team-mate in college, Ind
 
 Pythons bite the bullet and add some running back depth not named Orleans Darkwa. Harris is considered by some to be an even better back than this Alabama team-mate, Josh Jacobs. Tampa Bay will hope so, after drafting him to solve their perennial running game problems.
  
- ### 1.11 - Gateshead Spartans
+### 1.11 - Gateshead Spartans
  
 ![](/images/mock-draft-2019/marquise-brown.jpg)
 
@@ -96,7 +96,7 @@ Pythons bite the bullet and add some running back depth not named Orleans Darkwa
 
 Also looking for some extra depth at receiver, the Spartans select Washington's Marquise Brown. The Redskins are very thin at the position, so “Hollywood” should have no trouble getting plenty of snaps early on in his career.
  
- ### 1.12 - Oxford Seahawks
+### 1.12 - Oxford Seahawks
 
 ![](/images/mock-draft-2019/kyler-murray.png)
 
