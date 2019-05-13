@@ -14,7 +14,7 @@ All bylaws are an **explanation** or **extension** of the rules set on ESPN/MyFa
     - [1.2 Retired players](#12-retired-players)
     - [1.3 Taxi squads](#13-taxi-squads)
         - [1.3.1 Claiming players](#131-claiming-players)
-- [2. Schedule](#2-schedule)  
+- [2. Schedule](#2-schedule-and-divisions)  
     - [2.1 Regular season](#21-regular-season)
     - [2.2 Playoffs](#22-playoffs)
 - [3. Rookie draft](#3-rookie-draft)
