@@ -149,14 +149,12 @@ Pick 3: Non-playoff team with 3rd worst record
 Pick 4: Non-playoff team with 4th worst record  
 Pick 5: Non-playoff team with 5th worst record  
 Pick 6: Non-playoff team with 6th worst record  
-Pick 7: Regional Semi-Final loser with worst record   
-Pick 8: Regional Semi-Final loser with best record   
-Pick 9: Regional Final loser with worst record   
-Pick 10: Regional Final loser with best record   
-Pick 11: UK Dynasty Final losers   
-Pick 12: UK Dynasty Final winners 
-
-Due to the divisions each putting 3 teams through to the playoffs, the “7th ranked team” may actually have a better record than the "6th ranked team".
+Pick 7: Wildcard Weekend loser with worst record   
+Pick 8: Wildcard Weekend loser with best record   
+Pick 9: Semi-Final loser with worst record   
+Pick 10: Semi-Final loser with best record   
+Pick 11: Britannia Bowl losers   
+Pick 12: Britannia Bowl winners 
 
 In the event of any tie, the following tie-breakers shall be used, in order (roughly the same as for league standings, but ignoring head-to-head record and divisional record): 
 
