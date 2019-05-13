@@ -98,32 +98,40 @@ If the team claiming the player has multiple picks available in that round, then
 
 ## 2. SCHEDULE AND DIVISIONS
 
-There are two divisions of six teams, North and South, with teams assigned to their division by the geographical position of their town/city. 
+From the 2019 season onwards, there are three divisions of four teams: North, Midlands and South, with teams assigned to their division by the geographical position of their town/city. 
 
 Franchises' assigned divisions may change during the off-season at the Commissioner's discretion, to account for geographical balancing if a franchise's ownership changes.
 
 ### 2.1 Regular season
 
-The regular season takes place during weeks 1 to 13 of the NFL season. Teams will play all 5 other teams in their division twice, and 3 teams from the other division once.
-
-The teams that will be faced from the opposing division will be based on the previous season's finishing positions:
-
-| Finishing position |   |   |   |
-|--------------------|---|---|---|
-| 1                  | 1 | 2 | 3 |
-| 2                  | 1 | 2 | 4 |
-| 3                  | 1 | 3 | 5 |
-| 4                  | 2 | 4 | 6 |
-| 5                  | 3 | 5 | 6 |
-| 6                  | 4 | 5 | 6 |
-
-i.e. The 5th-placed team will face the teams that finished 3rd, 5th and 6th in the opposite division.
+The regular season takes place during weeks 1 to 13 of the NFL season. Teams will play the 3 other teams in their division twice, and 7 of the other 8 teams once.
 
 ### 2.2 Playoffs
 
-The playoffs run between weeks 14 and 16 of the NFL season.
+The playoffs run between weeks 14 and 16 of the NFL season. The teams that qualify for the playoffs, and their seeding, will be as follows:
 
-The winners of each division will receive a bye to the Regional Final. 2nd and 3rd spots will play off in the Regional Semi-Finals for the right to play in the Regional Final. The winners of each of the Regional Finals will face each other in the UK Dynasty Final (the *Britannia Bowl*).
+1. Division Winner with best record
+2. Division winner with 2nd best record
+3. Division winner with 3rd best record
+4. Team with next best record
+5. Team with 2nd best record
+6. Team with highest regular season Points For total
+
+The two division winners with the best records (Team 1 and Team 2) will receive a bye through the first week of the playoffs.
+
+#### Week 14 (Wildcard Weekend)
+
+Wildcard Matchup 1: Team 3 vs. Team 6
+Wildcard Matchup 2: Team 4 vs. Team 5
+
+#### Week 15 (Semi-Final Weekend)
+
+Team 1 vs. Wildcard Matchup Winner with lowest seed
+Team 2 vs. Wildcard Matchup Winner with highest seed
+
+#### Week 16 (Britannia Bowl)
+
+Semi-Final Winner 1 vs. Semi-Final Winner 2
 
 ## 3. ROOKIE DRAFT
 
