@@ -8,7 +8,7 @@ categories: league-news
 
 Days after the mid-point between the Super Bowl and the start of the 2019 NFL season, what better way to fill the time than the 3rd annual UK Dynasty rookie draft? After the drama of a huge trade for the first overall pick prior to last year's draft, the trading floor was eerily quiet in the week leading up to this year's extravaganza.
 
-But with 3 trades in the first round and 
+But with some surprising picks and 3 trades in the 1st round, it was worth the wait.
 
 ## Round 1 in brief
 
@@ -69,17 +69,17 @@ The (Oxford) Seahawks were poised to make the pick, but with trade interest from
 
 **TRADE**: The Flyers give up Adam Thielen, Tom Brady and their 2020 4th round pick to acquire the 1.05 and WR John Ross from the Gateshead Spartans
 
- Having taken Sanders' Penn State RB-mate Saquon Barkley first overall in last year's draft, it was well-known pre-draft that Flyers GM Dermy McAlinden was keen on the Eagles back.
+Having taken Sanders' Penn State RB-mate Saquon Barkley first overall in last year's draft, it was well-known pre-draft that Flyers GM Dermy McAlinden was keen on the Eagles back.
  
- They made their move and gave up last season's WR8 in the process, but when you want the guy, you gotta do what you gotta do. The Flyers revealed that they nearly gave up future 1st round draft capital to move up ahead of the Spartans for pick 4. "I got the player I wanted without giving up the 1st," McAlinden said at the post-draft press conference. 
+They made their move and gave up last season's WR8 in the process, but when you want the guy, you gotta do what you gotta do. The Flyers revealed that they nearly gave up future 1st round draft capital to move up ahead of the Spartans for pick 4. "I got the player I wanted without giving up the 1st," McAlinden said at the post-draft press conference. 
  
- "When the Spartans selected DK (Metcalf) I pushed harder to get the 1.05. I didn't just select Sanders because he's an Eagle, although that did play a part. He is not just a great runner but also has great hands and from the tape I've watched he will definitely be involved this season. Howard will be the RB1 this year and Sanders is more a pick for next season, but given an injury to Howard he could be a back-end RB1/high RB2."
+"When the Spartans selected DK (Metcalf) I pushed harder to get the 1.05. I didn't just select Sanders because he's an Eagle, although that did play a part. He is not just a great runner but also has great hands and from the tape I've watched he will definitely be involved this season. Howard will be the RB1 this year and Sanders is more a pick for next season, but given an injury to Howard he could be a back-end RB1/high RB2."
 
 ### Pick 6 - Derby Otters, AJ Brown WR
 
-The Otters have displayed a penchant for moving out of the first round in the past - in fact, this is their first ever first round pick in league history - but they saw Ole Miss receiver AJ Brown as worthy of that accolade.
+The Otters have displayed a penchant for moving out of the first round in the past - in fact, this is their first 1st round pick in league history - but they saw Ole Miss receiver AJ Brown as worthy of that accolade.
 
-Analysts have begrudgingly moved Brown, a talented physical slot receiver, down their rankings after he was drafted by receiver-hellhole the Tennessee Titans in the 'real' draft, but the Otters had no concerns about making him a top 6 pick.
+Some analysts have begrudgingly moved Brown down their rankings after he was drafted by receiver-hellhole the Tennessee Titans in the 'real' draft, but the Otters had no concerns about making him a top 6 pick.
 
 "I'm hoping he's an amalgamation of AJ Green and Antonio Brown," said Otters GM Chris Shepherd. "While being less of a dick."
 
@@ -121,6 +121,8 @@ The Wombats have no prior history of drafting first round receivers - their 3 pr
 
 The Spartans, with a WR room bolstered by the drafting of DK Metcalf and acquisition of Adam Thielen via trade, pivoted to fill a need at tight end with the 11th overall pick. With college teammate TJ Hockenson already off the board, Iowa and now-Denver Bronco TE Noah Fant joins David Njoku (and Jimmy Graham) at the position for the Spartans.
 
+The Spartans spoke highly of Fant in the post-draft press conference, making it clear that he was their main target for this pick.
+
 "Getting Fant at 11 was what I was hoping for coming into this draft," said GM Copeland. "I think he's going to have the most fantasy upside at the TE position in this class, and it was definitely a need for the Spartans to have some more depth at the position."
 
 ### Pick 12 - Oxford Pythons, Andy Isabella WR
@@ -130,3 +132,7 @@ The Cardinals' offense could hardly be described as 'potent' in 2018 - they crea
 Isabella was this time last year considered a track star, not an NFL-level football player, but a highly productive senior season in which he caught 102 balls for nearly 1700 yards and 12 touchdowns sent his draft stock way up.
 
 The Cardinals made him their second round 'real' draft pick, and the Pythons made him their third selection of the first round after David Montgomery and TJ Hockenson earlier in the afternoon.
+
+"I think we may look back on this day and wonder how Isabella fell all the way down to 1.12," said Conway. "Steal of the draft."
+
+Receiver was a need for the Pythons after their star WR Tyreek Hill had a less-than-positive 2019 off-season, to put it mildly.
