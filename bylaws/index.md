@@ -7,7 +7,7 @@ permalink: /bylaws
 
 This is the living, breathing bylaws document of the UK Dynasty league. Revision history from December 2016 onwards can be found [on GitHub](https://github.com/UKDynasty/ukdynasty.github.io/blob/master/bylaws/index.md). The original version of this document (with revision history from the start of the league) can be found [on Google Docs](http://bit.do/UKDynastyLeagueBylaws).
 
-All bylaws are an **explanation** or **extension** of the rules set on ESPN/MyFantasyLeague. This document doesn't outline all aspects of the scoring system, or describe how processes on the host websites work. However, any change in rules within the league hosts will be subject to league disussion/vote, as would any rule within the Bylaws.
+All bylaws are an **explanation** or **extension** of the rules set on MyFantasyLeague. This document doesn't outline all aspects of the scoring system, or describe how processes on the host websites work. However, any change in rules within the league hosts will be subject to league disussion/vote, as would any rule within the Bylaws.
 
 - [1. Team setup](#1-team-setup)  
     - [1.1 Roster size](#11-roster-size)
@@ -31,13 +31,13 @@ All bylaws are an **explanation** or **extension** of the rules set on ESPN/MyFa
 
 ### 1.1 Roster size
 
-Rosters are a maximum of 25 players + 5 taxi squad players, with 9 starters. Starting lineups consist of 1 QB, 2 RBs, 3 WRs, 1 TE, and 2 RB/WR/TE flex spots.
+Rosters are a maximum of 30 players (25 players + 5 taxi squad players during the season), with 9 starters. Starting lineups consist of 1 QB, 2 RBs, 3 WRs, 1 TE, and 2 RB/WR/TE flex spots.
 
 During the season, 3 IR spots are available.
 
-During the off-season, the roster limit will increase to 30. Teams must get their roster down to the in-season limit of 25 by the Sunday before week 1 at 6pm. If a franchise is over this limit when the deadline passes, players will be forcefully dropped to comply, in last-in-first-out order.
+During the off-season, the roster limit will increase to 30. Teams must get their roster down to the in-season limit of 25 and assign their taxi squad players by the Sunday before week 1 at 6pm. If a franchise is over this limit when the deadline passes, players will be forcefully dropped to comply, in last-in-first-out order.
 
-There are 3 spots open for Injured Reserve (IR) on each roster. See the ESPN FAQs for more on this: http://games.espn.go.com/ffl/resources/help/faq?name=how-do-i-move-a-player-on-or-off-the-ir
+There are 3 spots open for Injured Reserve (IR) on each roster.
 
 ### 1.2 Retired players
 
@@ -45,15 +45,15 @@ If a player retires, they no longer take up a roster spot of the owning team. Ho
 
 If the roster is full, the owner can either release the player immediately, or take a maximum of 7 days from the day of unretirement to free up a roster spot for the un-retired player, otherwise they will be returned to the pool of free agents.
 
+A record of retired players is kept [on Google Sheets](https://docs.google.com/spreadsheets/d/1tsYQSMBHSD3nFUQS6urrnqYPJQs94c-IdjJi1CznX1c/edit#gid=647011089).
+
 ### 1.3 Taxi squads
 
 5 spots are available in addition to normal rosters for taxi squad players. These players can’t be used in your starting lineup.
 
-To designate a player to the taxi squad, a post must be made on the **Taxi Squad Designation** thread on the ESPN league messageboard, clearly stating the player that they wish to place on their taxi squad, prior to the designation deadline, the Sunday before Week 1 of the season.
+To designate a player to the taxi squad, they must be demoted to the taxi squad on MyFantasyLeague prior to the designation deadline, the Sunday before Week 1 of the season.
 
 Players cannot be added to taxi squads during the season.
-
-The commissioner will maintain a list of each team's taxi squads on the league [Google Sheet](https://docs.google.com/spreadsheets/d/1tsYQSMBHSD3nFUQS6urrnqYPJQs94c-IdjJi1CznX1c), under the *Taxi squads - \[year\]* tab.
 
 Only rookies can be added to your taxi squad, and they can remain there until the end of their 2nd season in the NFL. If a player is promoted during their 1st season, they therefore cannot be designated to the taxi squad for their 2nd year.
 
@@ -61,7 +61,7 @@ Rookies acquired during the Free Agent Auction are taxi-squad eligible.
 
 Players can be promoted to the active roster at any time. Once a player is on a team's active roster, they cannot be demoted back to the taxi squad, and that taxi squad spot cannot be used for the rest of the season.
 
-Players can be traded, but must be placed on the active roster of the receiving team.
+Taxi squad players can be traded, but must be placed on the active roster of the receiving team.
 
 Should an owner include a taxi squad player in their starting lineup illegally, they will forfeit all points scored by that player in that gameweek, and be forced to promote the player from their taxi squad before the start of the next gameweek.
 
@@ -176,7 +176,7 @@ All owners will begin the auction with a $200 budget that will act as both their
 
 All owners can open auctions on players, with the bidding ending once no bid has been made in 18 hours - highest bid wins that player.
 
-An explanation of the rules of the 2018 auction can be found [here]({{ site.baseurl }}{% post_url 2018-06-25-free-agency-auction-rules %})
+An explanation of the rules of the 2018 auction (still valid for future years) can be found [here]({{ site.baseurl }}{% post_url 2018-06-25-free-agency-auction-rules %})
 
 ### 4.3 During the off-season
 
@@ -186,22 +186,17 @@ On completion of the Free Agent Auction, bids will be processed weekly on Wednes
 
 Trading is suspended from the Thursday before Week 14 (Week 1 of the UK Dynasty playoffs). Trading re-opens the Monday following the NFL Super Bowl. Trades must be accepted (not just proposed) by the deadline to be valid.
 
-Trades that involve players (and draft picks when available) should be made using the facility on ESPN, or MFL if during the off-season.
+Trade offers are made and accepted using the facility on MyFantasyLeague. Verbal agreement of a trade in chat is not binding.
 
-You can trade picks for the next year’s rookie draft, and the year after. E.g. During the 2016 season, you can trade 2017 and 2018 rookie draft picks. ESPN doesn't have a facility for trading draft picks during the season, and doesn’t support it at all when using an “offline” draft. There is a messageboard thread (“Report Draft Pick Trade”, linked to from the league homepage) where the draft pick trade should be reported. The commissioner will transfer these to the “Future Rookie Draft Pick Trades” spreadsheet on Google Docs (http://bit.do/UKDynastyLeagueFutureRookieDraftPickTrades), and apply the trades to the rookie draft order prior to the commencement of the relevant year’s draft.  
+You can trade picks for the next year’s rookie draft, and the year after. E.g. During the 2019 season, you can trade 2020 and 2021 rookie draft picks. 
 
-The dutiful commissioner will have the final decision on whether a trade involving future picks is truly damaging to the future of the league, but this power will only be used in extreme circumstances, when there are clear signs that an owner is underselling picks (or players) with malicious intent. It's unlikely that any trade will ever be rejected for this reason. To be clear, trading of picks because you're in win-now mode doesn't count as malicious.
+Pick trading history prior to the 2019 permanent move from ESPN to MyFantasyLeague is on the “Future Rookie Draft Pick Trades” spreadsheet on Google Docs (http://bit.do/UKDynastyLeagueFutureRookieDraftPickTrades).
 
-Each pick trade should be posted to the thread as follows:
-
-Team A give up Year 2017 1st round pick to Team B
-Team B give up Year 2017 2nd round pick to Team A
-
-Only one of the teams involved in the trade needs to post details of the trade. The commissioner will email the other party to confirm the trade. Once the other party confirms the trade or 7 days have passed, whichever is sooner, the trade will be deemed complete.
+The dutiful commissioner will have the final decision on whether a trade involving future picks is truly damaging to the future of the league, but this power will only be used in extreme circumstances, when there are clear signs that an owner is underselling picks (or players) with malicious intent. It's unlikely that any trade will ever be rejected for this reason. To be clear, trading of picks because you're in 'win-now mode' doesn't count as malicious; this commissioner ability is reserved for flagrant abuse of the league.
 
 Trades cannot be vetoed unless the trade is an obvious attempt at collusion. Only the commissioner can veto a trade. Trades are not to be vetoed because other owners deem them unfair on one of the parties.
 
-Temporary trades or “loan trades” are prohibited. Examples of a temporary trade include:
+Temporary trades (also known as 'loan trades' or 'roster sharing') are prohibited. Examples of a temporary trade include:
 
 - swapping players with another franchise for one week to circumvent a bye week
 - trading a player to another franchise for three weeks to help with an injury-hit roster in return for a draft pick
@@ -214,7 +209,7 @@ The league will accept suggestions for rule changes for the upcoming season/s fr
 
 Any owner can put forward a suggestion of a rule change, and a poll of all owners will be taken on rule changes that cut the commissioner's proverbial mustard (basically anything that's not totally crazy or league-ruining or against the ethos of the league). The majority required for a rule change to pass will be set individually for each proposal. Most of the time, it will be a simple "over 50%" majority required, but for more wide-ranging or serious changes, it may be 75% or more.
 
-Suggested rule changes can include scoring adjustments, waiver wire rules, league calendar adjustments - anything that is set in ESPN rules or the bylaws is up for debate each and every year.
+Suggested rule changes can include scoring adjustments, waiver wire rules, league calendar adjustments - anything that is set in MFL rules or the bylaws is up for debate each and every year.
 
 ## 7. ETHOS
 
