@@ -29,10 +29,7 @@ navbar-links:
     - Calendar: "calendar"
     - History: "history"
     - Trades: "trades"
-  For Owners:
-    - ESPN league homepage: "http://games.espn.com/ffl/clubhouse?leagueId=7168&teamId=1&seasonId=2017"
-    - MFL league homepage: "https://www80.myfantasyleague.com/2018/home/11959#0"
-    - Messageboard: "http://games.espn.com/ffl/messageboard?leagueId=7168&typeId=0&topicId=0"
+    - MFL Homepage: "https://www80.myfantasyleague.com/2019/options?L=11959"
   Contact: "https://www.twitter.com/DanAbreyFF"
 
 # Image to show in the navigation bar - image must be a square (width = height)
