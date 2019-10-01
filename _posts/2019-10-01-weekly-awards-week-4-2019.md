@@ -97,15 +97,15 @@ Hereford Chargers - 🏆
 
 ### Roll of Honour
 
-Gateshead Spartans 🏆- 🏆🏆🏆  
-Irish Flyers 🏆- 🏆🏆🏆  
-Oxford Seahawks 🏆- 🏆🏆🏆  
+Gateshead Spartans - 🏆🏆🏆  
+Irish Flyers - 🏆🏆🏆  
+Oxford Seahawks - 🏆🏆🏆  
 Hereford Chargers - 🏆🏆  
 Nottingham Bandits - 🏆🏆  
 Oxford Pythons - 🏆🏆  
 Andover Sandslashers - 🏆🏆  
-Chippenham Packers - 🏆  
 Coventry Eagles - 🏆🏆  
 Wigan Wombats - 🏆🏆  
 Derby Otters - 🏆  
-Flitwick Fireflies - 🏆
+Flitwick Fireflies - 🏆  
+Chippenham Packers - 🏆  
