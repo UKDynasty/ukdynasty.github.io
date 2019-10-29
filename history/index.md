@@ -6,7 +6,11 @@ published: true
 ---
 
 - [Winners](#winners)
-- [League records](#records)
+- [All-time records](#all-time-records)
+- [2016 records](#2016)
+- [2017 records](#2017)
+- [2018 records](#2018)
+- [2019 records](#2019)
 
 ## Winners
 
