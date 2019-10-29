@@ -50,7 +50,7 @@ published: true
 
 **2016:**  Derby Otters  
 **2017:** Irish Flyers  
-**2018:** Irish Flyers
+**2018:** Irish Flyers  
 **2019:** TBD
 
 ### All-time Records
