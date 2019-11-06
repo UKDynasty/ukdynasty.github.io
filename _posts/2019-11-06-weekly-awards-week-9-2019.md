@@ -20,19 +20,19 @@ BYE: Spartans, Packers
 
 In the chat, Tom mentioned that he either has high highs or low lows and then he goes and wins with a score below 90. This got me thinking and I produced these:
 
-![](/images/awards-week-9-assets/chart1.png)
+![](/images/awards-week-9-2019-assets/chart1.png)
 
 The first table is a summary of all the points each team has scored so far and formatted to compared every score between all of us so the highest scores are in red and the lowest scores are in green, making Tom’s week 5 the reddest and Jason’s week 8 the greenest. Some patterns can be discerned but I calculated the standard deviation of each teams results to see how much of a spread the scores are from week to week. The averages and standard deviations are ordered below:
 
-![](/images/awards-week-9-assets/chart2-a.png)
+![](/images/awards-week-9-2019-assets/chart2-a.png)
 
-![](/images/awards-week-9-assets/chart2-b.png)
+![](/images/awards-week-9-2019-assets/chart2-b.png)
 
 The averages pretty much show the league standings with the top 6 all currently in the playoffs, whilst the standard deviations show that Chris, Jason and Tom vary a lot and that Dan, Michael, me and Josh are the most consistent. Being 2nd in the averages and 4th bottom in the deviation surely makes the Bandits the mid-season favourites for the 4th season title, continuing the new name tradition on the trophy.
 
 Just one more way of visualising the high-highs and low-lows, I took the average of the averages (105.82 points) and subtracted that from everyone’s scores, with those exceeding in green. I feel this is a better showing of how much luck comes into play and you can see with the Sandslashers that even though they scored better than the season average in 5 weeks, they have a record of 3-6 whilst the Wombats have only scored higher than the season average twice and have a 5-4 record.
 
-![](/images/awards-week-9-assets/chart3.png)
+![](/images/awards-week-9-2019-assets/chart3.png)
 
 All this together tells me that the 2 most dangerous teams are the Bandits and the Packers (shocking right!) as not only are they scoring high but are doing it on a consistent basis meaning that it would take a great week for another team to take them out. The Spartans are capable of this as they really do swing high or swing low each week so facing them in the playoffs will be a rollercoaster experience.
 
