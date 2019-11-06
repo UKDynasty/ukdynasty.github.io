@@ -6,7 +6,11 @@ published: true
 ---
 
 - [Winners](#winners)
-- [League records](#records)
+- [All-time records](#all-time-records)
+- [2016 records](#2016)
+- [2017 records](#2017)
+- [2018 records](#2018)
+- [2019 records](#2019)
 
 ## Winners
 
@@ -14,39 +18,48 @@ published: true
 
 **2016:**  Gateshead Spartans  
 **2017:** Derby Otters  
-**2018:** *TBD*
+**2018:** Coventry Eagles  
+**2019:** *TBD*
 
-### Champions of the South
-
-**2016:**  Coventry Eagles  
-**2017:** Coventry Eagles  
-**2018:** *TBD*
-
-### Champions of the North
-
-**2016:**  Gateshead Spartans  
-**2017:** Derby Otters  
-**2018:** *TBD*
-
-### Regular Season South Division Winners
+### Champions of the South*
 
 **2016:**  Coventry Eagles  
 **2017:** Coventry Eagles  
 **2018:** Coventry Eagles
 
+### Champions of the North*
+
+**2016:**  Gateshead Spartans  
+**2017:** Derby Otters  
+**2018:** Irish Flyers  
+
+**From 2019 onwards, the divisional shakeup means that the playoffs are no longer split North/South, so the 'Champions' history stops there.*
+
+### Regular Season South Division Winners
+
+**2016:**  Coventry Eagles  
+**2017:** Coventry Eagles  
+**2018:** Coventry Eagles  
+**2019:** TBD
+
+### Regular Season Midlands Division Winners
+
+**2019:** TBD
+
 ### Regular Season North Division Winners
 
 **2016:**  Derby Otters  
 **2017:** Irish Flyers  
-**2018:** Irish Flyers
+**2018:** Irish Flyers  
+**2019:** TBD
 
 ### All-time Records
 
 **Most championships won:** 1  
-(Gateshead Spartans, 2016 & Derby Otters, 2017)  
+(Gateshead Spartans 2016, Derby Otters 2017, Coventry Eagles 2018)  
 
-**Most regional finals won:** 2  
-(Coventry Eagles, South, 2016 & 2017)  
+**Most division titles won:** 3  
+(Coventry Eagles, South, 2016, 2017 & 2018)  
 
 **Most playoff appearances:**  3  
 (Coventry Eagles)   
@@ -119,3 +132,20 @@ published: true
 
 **Most consecutive matchups lost:** 10  
 (Hereford Chargers, W6-W13)
+
+#### 2019
+
+**Most weekly points scored by one franchise:** 192.22  
+(Chippenham Packers v Flitwick Fireflies, W5)
+
+**Most weekly points scored by one individual starter:** 46.7  
+(Will Fuller, Hereford Chargers, W5)
+
+**Fewest weekly points scored by one franchise:** 57.58   
+(Hereford Chargers, W8)
+
+**Most consecutive matchups won:** 4  
+(Gateshead Spartans, W3-W7)
+
+**Most consecutive matchups lost:** 4  
+(Flitwick Fireflies, W5-W8 & Oxford Pythons, W3-W7)
