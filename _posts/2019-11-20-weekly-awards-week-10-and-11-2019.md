@@ -16,6 +16,8 @@ The Midlands title still isn’t completely decided either and week 12 is a deci
 
 So the 2 byes are currently with the Packers and the Spartans and third place is currently held by the Eagles. The next 2 best records come from the North as they have 2 teams on 6-5, the Wombats and the Flyers and four teams have 5-6 records to be one place back (Bandits, Otters, Seahawks, Pytons). The highest points scorer remaining is also from the North as the Bandits currently have 1275 PF.
 
+![](/images/awards-week-10-and-11-2019-assets/playoff-picture.png)
+
 ### The Buzzsaw
 
 Week 10 - Oxford Pythons
