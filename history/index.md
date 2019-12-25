@@ -19,7 +19,7 @@ published: true
 **2016:**  Gateshead Spartans  
 **2017:** Derby Otters  
 **2018:** Coventry Eagles  
-**2019:** *TBD*
+**2019:** Irish Flyers
 
 ### Champions of the South*
 
@@ -33,35 +33,37 @@ published: true
 **2017:** Derby Otters  
 **2018:** Irish Flyers  
 
-**From 2019 onwards, the divisional shakeup means that the playoffs are no longer split North/South, so the 'Champions' history stops there.*
+**From 2019 onwards, the [divisional shakeup]({% post_url 2019-02-16-shocker-divisional-realignment-passed %}) means that the playoffs are no longer split North/South, so the 'Champions' history stops there.*
 
 ### Regular Season South Division Winners
 
 **2016:**  Coventry Eagles  
 **2017:** Coventry Eagles  
 **2018:** Coventry Eagles  
-**2019:** TBD
+**2019*:** Chippenham Packers  
 
 ### Regular Season Midlands Division Winners
 
-**2019:** TBD
+**2019*:** Coventry Eagles  
 
 ### Regular Season North Division Winners
 
 **2016:**  Derby Otters  
 **2017:** Irish Flyers  
 **2018:** Irish Flyers  
-**2019:** TBD
+**2019*:** Gateshead Spartans  
+
+* [Divisional shakeup]({% post_url 2019-02-16-shocker-divisional-realignment-passed %}) changed division teams from 2019 onwards
 
 ### All-time Records
 
 **Most championships won:** 1  
-(Gateshead Spartans 2016, Derby Otters 2017, Coventry Eagles 2018)  
+(Gateshead Spartans 2016, Derby Otters 2017, Coventry Eagles 2018, Irish Flyers 2019)  
 
-**Most division titles won:** 3  
-(Coventry Eagles, South, 2016, 2017 & 2018)  
+**Most division titles won:** 4  
+(Coventry Eagles, South, 2016, 2017 & 2018, Midlands 2019)  
 
-**Most playoff appearances:**  3  
+**Most playoff appearances:**  4  
 (Coventry Eagles)   
 
 **Most weekly points scored by one franchise:** 201.6  
@@ -141,11 +143,11 @@ published: true
 **Most weekly points scored by one individual starter:** 46.7  
 (Will Fuller, Hereford Chargers, W5)
 
-**Fewest weekly points scored by one franchise:** 57.58   
-(Hereford Chargers, W8)
+**Fewest weekly points scored by one franchise:** 54.76   
+(Derby Otters, W11)
 
-**Most consecutive matchups won:** 4  
-(Gateshead Spartans, W3-W7)
+**Most consecutive matchups won:** 5  
+(Chippenham Packers, W7-W11)
 
-**Most consecutive matchups lost:** 4  
-(Flitwick Fireflies, W5-W8 & Oxford Pythons, W3-W7)
+**Most consecutive matchups lost:** 5  
+(Flitwick Fireflies, W5-W9)
