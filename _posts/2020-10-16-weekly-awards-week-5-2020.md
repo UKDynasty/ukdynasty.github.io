@@ -79,6 +79,7 @@ Tyler Boyd, Joe Burrow, Devin Singletary, James Robinson. 4 of the starting 9 fo
 Chippenham Beavers - 🏆  
 Gateshead Spartans - 🏆🏆  
 Coventry Eagles - 🏆  
+Andover Sandslashers - 🏆  
   
 ### Olly's Closest Matchup - Oxford Pythons
  
