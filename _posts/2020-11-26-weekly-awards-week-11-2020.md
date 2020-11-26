@@ -82,7 +82,7 @@ Nottingham Bandits - 🏆
 Derby Otters - 🏆  
 Chippenham Beavers – 🏆  
  
-### Most Impactful Injury - Nottingham Bandits
+### Most Impactful Injury - Hereford Chargers
 
 Obviously the worst injury in the NFL was Joe Borrow tearing every ligament in his knee but for the Chargers this means he joins Jimmy G on IR and they have to pick up Mullens to actually have a starting QB in week 12. That's three QBs on IR for them now but it is probably going to have a bigger fantasy impact on the receivers for the Bengals as the Boyd for the Sandslashers, Green for the Leopards and Higgins for the Wombats will all see a downgrade to Finley or whoever is the starter.
 
@@ -95,7 +95,8 @@ Coventry Eagles – 🏆
 Oxford Pythons – 🏆  
 Chippenham Beavers – 🏆  
 Lurgan Leopards - 🏆  
-Nottingham Bandits - 🏆🏆🏆  
+Nottingham Bandits - 🏆🏆  
+Hereford Chargers - 🏆  
  
 ### Worst Decision - Nottingham Bandits
 
