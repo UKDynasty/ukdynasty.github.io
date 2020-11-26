@@ -1,8 +1,8 @@
 ---
 published: true
-title: "Phil's Weekly Awards 2020 - Week 10"
+title: "Phil's Weekly Awards 2020 - Week 11"
 layout: post
-date: 2020-11-19T00:00:00.000Z
+date: 2020-11-26T00:00:00.000Z
 categories: league-news awards
 ---
 
