@@ -135,7 +135,7 @@ Semi-Final Winner 1 vs. Semi-Final Winner 2
 
 ## 3. ROOKIE DRAFT
 
-A 4-round rookie draft (slow email style) will be held each year starting on the last Saturday in May, using the draft facility on MyFantasyLeague.com. Each team will have 1 draft pick for each round. Picks are tradeable. A 10 hour pick clock will be in use, with the clock paused between the hours of 10pm and 6am.
+A 4-round rookie draft (slow email style) will be held each year starting on the second Saturday in May, using the draft facility on MyFantasyLeague.com. Each team will have 1 draft pick for each round. Picks are tradeable. A 10 hour pick clock will be in use, with the clock paused between the hours of 10pm and 6am.
 
 Free agents will not be included in the rookie draft.
 
