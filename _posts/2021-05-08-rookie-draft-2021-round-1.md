@@ -14,16 +14,16 @@ But here we are again, with rookie fever. To think, we could have waited another
 
 1.01: **Najee Harris**, PIT RB - Oxford Pythons    
 1.02: **Ja'Marr Chase**, CIN WR  - Oxford Seahawks   
-1.03: ****,  - Wigan Wombats  
-1.04: ****,  - Andover Sandlashers  
-1.05: ****,  - Derby Otters  
-1.06: ****,  - Chippenham Beavers  
-1.07: ****,  - Hereford Chargers  
-1.08: ****,  - Lurgan Leopards  
-1.09: ****,  - Andover Sandslashers  
-1.10: ****,  - Hereford Chargers  
-1.11: ****,  - Andover Sandslashers  
-1.12: ****,  - Oxford Seahawks
+1.03: **Javonte Williams** DEN RB - Chippenham Packers  
+1.04: **Travis Etienne** JAX RB,  - Andover Sandlashers  
+1.05: **Kyle Pitts**, ATL TE  - Derby Otters  
+1.06: **Devonta Smith** PHI WR,  - Hereford Chargers  
+1.07: **Trevor Lawrence** JAX QB,  - Hereford Chargers  
+1.08: **Jaylen Waddle** MIA WR,  - Lurgan Leopards  
+1.09: **Rashod Bateman** BAL WR,  - Andover Sandslashers  
+1.10: **Justin Fields** CHI QB,  - Derby Otters  
+1.11: **Kadarius Toney** NYG WR,  - Andover Sandslashers  
+1.12: **Elijah Moore** NYJ WR,  - Oxford Seahawks
 
 ### Pick 1 - Oxford Pythons, Najee Harris RB
 
