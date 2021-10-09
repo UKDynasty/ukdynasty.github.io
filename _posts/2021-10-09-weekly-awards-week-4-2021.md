@@ -58,7 +58,7 @@ If it weren’t for the fact that all 5 of the Otters WRs on the bench also scor
 
 Flitwick Fireflies 🏆  
 Andover Sandslashers 🏆  
-Chippenham Beavers 🏆 
+Chippenham Beavers 🏆  
 Andover Sandslashers 🏆  
  
 ### Most Impactful Injury - Coventry Eagles
@@ -71,7 +71,7 @@ However the most impactful injury this week goes to the Coventry Eagles. Their i
 
 Nottingham Bandits 🏆  
 Oxford Seahawks 🏆  
-Andover Sandslashers 🏆
+Andover Sandslashers 🏆  
 Coventry Eagles 🏆  
  
 ### Worst Decision - Derby Otters and Cymru Cobras
