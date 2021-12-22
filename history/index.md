@@ -191,7 +191,7 @@ published: true
 (Gateshead Spartans, W15)
 
 **Most consecutive matchups won:** 8  
-(Lurgan Leopards, W6-W13))
+(Lurgan Leopards, W6-W13)
 
 **Most consecutive matchups lost:** 10  
 (Gateshead Spartans, W1-W10)
