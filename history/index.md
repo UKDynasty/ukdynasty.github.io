@@ -18,12 +18,12 @@ published: true
 
 ### Britannia Bowl
 
-**2016:**  Gateshead Spartans  
+**2016:** Gateshead Spartans  
 **2017:** Derby Otters  
 **2018:** Coventry Eagles  
 **2019:** Irish Flyers  
 **2020:** Oxford Seahawks  
-**2021:**   
+**2021:** Nottingham Bandits
 
 ### Champions of the South*
 
