@@ -2,7 +2,7 @@
 published: true
 title: "Bandits claim Britannia Bowl VI glory"
 layout: post
-date: 2021-01-06T00:00:00.000Z
+date: 2022-01-06T00:00:00.000Z
 categories: reports
 ---
 
