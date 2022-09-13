@@ -20,7 +20,7 @@ Ominous for the rest of the league when the reigning champ wins the week with th
 
 Is Godwin healthy? Can Lamb be the number 1 guy (without Dak now)? Any surprise gems on the pretty shallow bench?
 
-156.8 points in week one is 17 points higher than the second place Seahawks and is 91 points more than last place Cobras.
+156.8 points in week one is 17 points higher than the second place Seahawks and is 91 points more than last place Cobras. *(**Ed**: That 91 point margin would have been enough on its own to beat 5 teams this week.)*
 
 **Nottingham Bandits** 🏆  
 
