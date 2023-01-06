@@ -25,7 +25,7 @@ published: true
 **2019:** Irish Flyers  
 **2020:** Oxford Seahawks  
 **2021:** Nottingham Bandits  
-**2022:** TBC
+**2022:** Oxford Pythons  
 
 ### Champions of the South*
 
@@ -66,14 +66,14 @@ published: true
 **2019*:** Gateshead Spartans  
 **2020:** Nottingham Bandits  
 **2021:** Lurgan Leopards  
-**2022:** Gateshead Spartans
+**2022:** Wigan Wombats  
 
 * [Divisional shakeup]({% post_url 2019-02-16-shocker-divisional-realignment-passed %}) changed division teams from 2019 onwards
 
 ### All-time Records
 
 **Most championships won:** 1  
-(Gateshead Spartans 2016, Derby Otters 2017, Coventry Eagles 2018, Irish Flyers 2019, Oxford Seahawks 2020, Nottingham Bandits 2021)  
+(Gateshead Spartans 2016, Derby Otters 2017, Coventry Eagles 2018, Irish Flyers 2019, Oxford Seahawks 2020, Nottingham Bandits 2021, Oxford Pythons 2022)  
 
 **Most division titles won:** 6  
 (Coventry Eagles, South, 2016, 2017 & 2018, Midlands 2019, 2020, 2021)  
