@@ -1,12 +1,14 @@
 ---
-published: false
+published: true
 title: "Playoff Seedings 2023"
 layout: post
 date: 2023-12-12T00:00:00.000Z
 categories: league-news
 ---
 
-It's that time already! The 2022 season is over and we're ready to start looking ahead to the playoffs, with the Oxford Pythons clinching their first ever top seed berth in UKD history. 
+Has this season gone by in a blur for anyone else? It doesn't feel like two weeks ago since 
+
+The 2023 regular season is over and we're ready to start looking ahead to the playoffs, with the Andover Sandslashers clinching their first ever top seed berth in UKD history.
 
 ## Playoff Seedings
 
@@ -33,9 +35,10 @@ It all comes down to this.
 
 ## Rookie Draft Order
 
-#7 Leopards 7-7
-#8 Beavers 6-8
-#9 Eagles 5-9
-#10 Fireflies 5-9
-#11 Spartans 4-10
-#12 Cobras 4-10
+1. Cymru Cobras
+2. Gateshead Spartans
+3. Flitwick Fireflies
+4. Coventry Eagles
+5. Chippenham Beavers
+6. Lurgan Leopards
+7. TBC...
