@@ -14,6 +14,7 @@ published: true
 - [2020 records](#2020)
 - [2021 records](#2021)
 - [2022 records](#2022)
+- [2023 records](#2023)
 
 ## Winners
 
@@ -26,6 +27,7 @@ published: true
 **2020:** Oxford Seahawks  
 **2021:** Nottingham Bandits  
 **2022:** Oxford Pythons  
+**2023:** Wigan Wombats
 
 ### Champions of the South*
 
@@ -49,14 +51,16 @@ published: true
 **2019*:** Chippenham Packers  
 **2020:** Oxford Seahawks  
 **2021:** Oxford Pythons  
-**2022:** Oxford Pythons
+**2022:** Oxford Pythons  
+**2023:** Andover Sandslashers
 
 ### Regular Season Midlands Division Winners
 
 **2019*:** Coventry Eagles  
 **2020:** Coventry Eagles  
 **2021:** Coventry Eagles  
-**2022:** Flitwick Fireflies
+**2022:** Flitwick Fireflies  
+**2023:** Derby Otters
 
 ### Regular Season North Division Winners
 
@@ -67,13 +71,14 @@ published: true
 **2020:** Nottingham Bandits  
 **2021:** Lurgan Leopards  
 **2022:** Wigan Wombats  
+**2023:** Wigan Wombats
 
 * [Divisional shakeup]({% post_url 2019-02-16-shocker-divisional-realignment-passed %}) changed division teams from 2019 onwards
 
 ### All-time Records
 
 **Most championships won:** 1  
-(Gateshead Spartans 2016, Derby Otters 2017, Coventry Eagles 2018, Irish Flyers 2019, Oxford Seahawks 2020, Nottingham Bandits 2021, Oxford Pythons 2022)  
+(Gateshead Spartans 2016, Derby Otters 2017, Coventry Eagles 2018, Irish Flyers 2019, Oxford Seahawks 2020, Nottingham Bandits 2021, Oxford Pythons 2022, Wigan Wombats 2023)  
 
 **Most division titles won:** 6  
 (Coventry Eagles, South, 2016, 2017 & 2018, Midlands 2019, 2020, 2021)  
@@ -87,10 +92,8 @@ published: true
 **Most weekly points scored by one individual starter:**  53.1  
 (Joe Mixon, Lurgan Leopards,  W9 2022)
 
-**Fewest weekly points scored by one franchise:**  38.68  
-(Chippenham Beavers, W13 2022)  
-&ast;Disputed as Beavers benched starters. Alternative record holder: 40.6
-(Hereford Chargers, W9 2017).
+**Fewest weekly points scored by one franchise:**  35.4  
+(Lurgan Leopards, W3 2024)
 
 **Most consecutive matchups won (regular season):**  12  
 (Coventry Eagles, W6 2016 - W4 2017)  
@@ -221,3 +224,20 @@ Wigan Wombats (W1-W8)
 
 **Most consecutive matchups lost:** 13  
 Gateshead Spartans (W2-W14)
+
+#### 2023
+
+**Most weekly points scored by one franchise:** 165.38  
+(Nottingham Bandits, W3)
+
+**Most weekly points scored by one individual starter:** 49.3   
+(De'Von Achane, Coventry Eagles, W3)
+
+**Fewest weekly points scored by one franchise:** 44.60  
+(Gateshead Spartans, W9)
+
+**Most consecutive matchups won:** 11  
+Andover Sandslashers (W5-W16)
+
+**Most consecutive matchups lost:** 9  
+Gateshead Spartans (W2-W10)
