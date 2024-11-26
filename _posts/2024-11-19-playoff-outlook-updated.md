@@ -5,7 +5,6 @@ layout: post
 date: 2024-11-26T00:00:00.000Z
 categories: league-news
 ---
-# UK Dynasty Playoff Outlook
 
 After the first of our divisional deciders, you can already throw last week's article out of the window. Situations have changed across the board and I for one, am so F*****g here for it. Let’s have another look, shall we? To follow will be a view of who can win each division, who can make playoffs via best record, who can make playoffs as the Highest Points Scorer, and who could be this season’s Johnny.
 
