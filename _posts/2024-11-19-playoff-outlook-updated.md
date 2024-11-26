@@ -5,7 +5,9 @@ layout: post
 date: 2024-11-26T00:00:00.000Z
 categories: league-news
 ---
-After the first of our divisional deciders, you can already throw last week's article out of the window. Situations have changed across the board and I for one, am so fucking here for it. Let’s have another look, shall we? To follow will be a view of who can win each division, who can make playoffs via best record, who can make playoffs as the Highest Points Scorer, and who could be this season’s Johnny.
+# UK Dynasty Playoff Outlook
+
+After the first of our divisional deciders, you can already throw last week's article out of the window. Situations have changed across the board and I for one, am so F*****g here for it. Let’s have another look, shall we? To follow will be a view of who can win each division, who can make playoffs via best record, who can make playoffs as the Highest Points Scorer, and who could be this season’s Johnny.
 
 ## We start in the North
 
@@ -84,4 +86,23 @@ As you will all know, our 6th and final playoff spot goes to the highest remaini
 | Eagles    | 4-8    | 1060.32 | 171.68 |
 | Beavers   | 4-8    | 1033.72 | 198.28 |
 
-As the table shows, the Bandits currently occupy that spot, but this race is close starting to look like a very Northern Affair. 2 weeks remain, and it’s starting to look like a 4-horse race for the final spot. However, things could be thrown in the air again if any more movements occur within the best record spots. If by the end of the season either the Pythons (1530.98 PF), Wombats (1346.08 PF), or the Sands
+As the table shows, the Bandits currently occupy that spot, but this race is close starting to look like a very Northern Affair. 2 weeks remain, and it’s starting to look like a 4-horse race for the final spot. However, things could be thrown in the air again if any more movements occur within the best record spots. If by the end of the season either the Pythons (1530.98 PF), Wombats (1346.08 PF), or the Sandslashers (1263.50 PF) were to drop out of the top 5, they would be clear winners of the #6, but it gets a little more interesting if the Otters or Seahawks were to drop back out of the top 5, as you can see with them highlighted in red above. There are too many situations to break down as of now. Look out for a thrilling conclusion and breakdown come week 14.
+
+## Johnny
+
+Our Johnny Race is still quite up in the air, 4 possible teams could be taking Johnny home.
+
+### Race for Johnny
+
+| Team      | Record | PF      | PB     |
+|-----------|--------|---------|--------|
+| Fireflies | 3-9    | 1107.32 | 0.00   |
+| Eagles    | 4-8    | 1060.32 | 47.00  |
+| Beavers   | 4-8    | 1033.72 | 73.60  |
+| Spartans  | 4-8    | 1199.32 | -92.00 |
+
+Johnny has narrowed his view but is looking on more intently than ever. One contender has realistically saved themselves from a potential date with Jason’s Sloppy Seconds as the Leopards winning has put them 2 wins and over 100 points clear of the Fireflies. The Spartans will likely only need 1 win over the next 2 weeks to make themselves safe also, but it could be a nervy 2 weeks for the Coventry Eagles and Chippenham Beavers. The Fireflies outscored both of their adversaries in week 12 and widened their Points advantage over the 2. If they can win against either the Cobras in week 13 or the Eagles in week 14 it will put this race strongly onto the others. Going into week 14 with potentially 4 teams scrapping it out on points alone for who gets to go home with Johnny is a party I hope to have no part in but is fantastic entertainment for the rest of the league watching on in horror.
+
+## Final Thoughts
+
+I didn’t think 1 week would throw up so many surprises and change so much landscape for the end of the season, but here we are. This is why I love this league; the drama is second to none and I can’t wait to see how it pans out. Who is going to make playoffs? Who is going to win the league? Who is going to win Johnny’s heart for a year? Who fucking knows?
