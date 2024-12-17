@@ -85,12 +85,12 @@ If more than one team makes a claim on the same player on the same day, priority
 **Compensation:**
 
 | Round drafted | Compensation |
-|-------|--------|
-| 1st | 1st and 2nd |
-| 2nd | 1st |
-| 3rd | 2nd |
-| 4th | 3rd |
-| Undrafted | 4th |
+|---------------|--------------|
+| 1st           | 1st and 2nd  |
+| 2nd           | 1st          |
+| 3rd           | 2nd          |
+| 4th           | 3rd          |
+| Undrafted     | 4th          |
 
 If a team doesn't have the pick required to compensate, they can offer a pick from a higher round. Only picks for the next rookie draft are valid compensation - future picks don't count. Therefore, teams must have at least one available pick in the next rookie draft to make a claim for a player.
 
@@ -104,11 +104,11 @@ Franchises' assigned divisions may change during the off-season at the Commissio
 
 ### 2.1 Regular season
 
-The regular season takes place during weeks 1 to 13 of the NFL season. Teams will play the 3 other teams in their division twice, and 7 of the other 8 teams once.
+The regular season takes place during weeks 1 to 14 of the NFL season. Teams will play the 3 other teams in their division twice, and each other team once.
 
 ### 2.2 Playoffs
 
-The playoffs run between weeks 14 and 16 of the NFL season. The teams that qualify for the playoffs, and their seeding, will be as follows:
+The playoffs run between weeks 15 and 17 of the NFL season. The teams that qualify for the playoffs, and their seeding, will be as follows:
 
 1. Division winner with best record
 2. Division winner with 2nd best record
@@ -119,17 +119,17 @@ The playoffs run between weeks 14 and 16 of the NFL season. The teams that quali
 
 The two division winners with the best records (Team 1 and Team 2) will receive a bye through the first week of the playoffs.
 
-#### Week 14 (Wildcard Weekend)
+#### Week 15 (Wildcard Weekend)
 
 Wildcard Matchup 1: Team 3 vs. Team 6  
 Wildcard Matchup 2: Team 4 vs. Team 5
 
-#### Week 15 (Semi-Final Weekend)
+#### Week 16 (Semi-Final Weekend)
 
 Team 1 vs. Wildcard Matchup Winner with lowest seed  
 Team 2 vs. Wildcard Matchup Winner with highest seed
 
-#### Week 16 (Britannia Bowl)
+#### Week 17 (Britannia Bowl)
 
 Semi-Final Winner 1 vs. Semi-Final Winner 2
 
