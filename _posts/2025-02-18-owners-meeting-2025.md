@@ -8,7 +8,7 @@ categories: league-news
 
 We have a number of rule change suggestions to discuss and vote on prior to the league year beginning. Owners, please look over the following suggestions and prepare to vote beginning this Thursday 20th February until Thursday 27th February, at which point we'll and open up the new league year.
 
-_Note: I personally think suggestion 1 and 2 are contingent and would have a double effect if both were brought in. Change 1 would make points much more important, and Change 2 would then do that even moreso. So we may need to mitigate against the combination of these suggestions by, if they're both voted through, voting again on whether to bring in Change 1, Change 2, or both._
+**Note:** When voting, suggestions 1 and 2 will be an "either/or" vote, so you can vote for one or the other, or neither. 3, 4 and 5 will be a "yes/no" vote.
 
 ### 1. Add a "Vs average" game each week - Andover Sandslashers
 
