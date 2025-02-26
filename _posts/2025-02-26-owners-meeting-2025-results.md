@@ -12,7 +12,7 @@ Firstly, taxi squad claims for second year players will be reduced by one round 
 
 Secondly, owners are now able to request their matchup against a specific opponent to fall on a certain week, to allow for in-person meetups. Requests must be made by both owners, before the end of April, and they must not change the tradition of the final three weeks of the season being divisional matchups. This rule will be applied immediately.
 
-Lastly, IR will be reduced from 3 players to 2 players, from 2026 off-season onwards.
+Lastly, taxi squads will be reduced from 5 to 4 players. This rule will be applied from the 2026 off-season onwards.
 
 ### 1. Add a "Vs average" game each week - Andover Sandslashers
 

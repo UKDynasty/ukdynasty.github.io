@@ -39,8 +39,6 @@ During the off-season, the roster limit will increase to 30. Teams must get thei
 
 There are 3 spots open for Injured Reserve (IR) on each roster.
 
-**Note:** from the 2026 off-season onwards, the IR limit will be reduced to 2 players.
-
 ### 1.2 Retired players
 
 If a player retires, they no longer take up a roster spot of the owning team. However, should they un-retire and rejoin the NFL, they will return to the roster of the team they were on at the point of retirement. 
@@ -52,6 +50,8 @@ A record of retired players is kept [on Google Sheets](https://docs.google.com/s
 ### 1.3 Taxi squads
 
 5 spots are available in addition to normal rosters for taxi squad players. These players can’t be used in your starting lineup.
+
+**Note:** from the 2026 off-season onwards, the taxi squad will be reduced to 4 players.
 
 To designate a player to the taxi squad, they must be demoted to the taxi squad on MyFantasyLeague prior to the designation deadline, the Sunday before Week 1 of the season.
 
