@@ -39,6 +39,8 @@ During the off-season, the roster limit will increase to 30. Teams must get thei
 
 There are 3 spots open for Injured Reserve (IR) on each roster.
 
+**Note:** from the 2026 off-season onwards, the IR limit will be reduced to 2 players.
+
 ### 1.2 Retired players
 
 If a player retires, they no longer take up a roster spot of the owning team. However, should they un-retire and rejoin the NFL, they will return to the roster of the team they were on at the point of retirement. 
@@ -96,6 +98,8 @@ If a team doesn't have the pick required to compensate, they can offer a pick fr
 
 If the team claiming the player has multiple picks available in that round, then it's up to that team to decide which pick to give up as compensation.
 
+**Note:** from 2026 onwards, the compensation required for a second-year taxi squad player will be reduced to a pick from the round in which the player was drafted.
+
 ## 2. SCHEDULE AND DIVISIONS
 
 From the 2019 season onwards, there are three divisions of four teams: North, Midlands and South, with teams assigned to their division by the geographical position of their town/city. 
@@ -105,6 +109,12 @@ Franchises' assigned divisions may change during the off-season at the Commissio
 ### 2.1 Regular season
 
 The regular season takes place during weeks 1 to 14 of the NFL season. Teams will play the 3 other teams in their division twice, and each other team once.
+
+The final three weeks of the season are always divisional matchups.
+
+### 2.1.1 Requesting matchups
+
+From the 2025 season onwards, owners are able to request their matchup against a specific opponent to fall on a certain week, to allow for in-person meetups. Requests must be made by both owners to the commissioner in private or publicly in the GroupMe chat, before the end of April.
 
 ### 2.2 Playoffs
 
