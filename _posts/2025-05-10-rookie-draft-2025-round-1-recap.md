@@ -50,7 +50,7 @@ The former two-way star at Colorado has the potential to be a game-changer at wi
 
 However, with a total of four first round picks in hand, the Beavers have the luxury of taking a swing on a player with elite upside, and Hunter is that player. 
 
-On the pick, GM Butler said: "A polarising pick it would seem… but a Heismann trophy winner and 5th overall pick speaks volumes about what Travis Hunter is as a player." 
+On the pick, GM Butler said: "A polarising pick it would seem… but a Heismann trophy winner and second overall pick speaks volumes about what Travis Hunter is as a player." 
 
 "If he were only considered a WR, he’d probably be the 1.01 over Jeanty, and anyone that doubts that needs to check out Matt Harmon's analysis of him (and he has a terrific record of being right about these guys…). No gamble for me, I expect Hunter to be a full-time WR that might get some snaps on defence, and at 1.04 I think he’s an absolute steal."
 
