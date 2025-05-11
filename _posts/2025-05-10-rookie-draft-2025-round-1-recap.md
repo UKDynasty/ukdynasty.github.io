@@ -88,7 +88,7 @@ The Beavers double up on the running back position, with a powerful downfield ru
 
 The second tight end taken in the NFL draft is the first taken in the UKD rookie draft, as the Seahawks select Tyler Warren with the eighth overall pick.
 
-Warren was a second-round pick by the Indianapolis Colts, and is a versatile, athletic tight end who can block and catch passes in equal measure. He has the potential to be a key part of the Colts' offense, but who is throwing him the ball this season?
+Warren was a first-round pick by the Indianapolis Colts, and is a versatile, athletic tight end who can block and catch passes in equal measure. He has the potential to be a key part of the Colts' offense, but who is throwing him the ball this season?
 
 "The Seahawks are looking to build a dynasty, and Tyler Warren is a key part of that plan." said GM Dan Abrey. "He has the potential to be a top-3 or top-5 tight end in dynasty and he's relatively young as a rookie; we're happy to wait a year or two if necessary while the Colts sort out their quarterback situation moving forwards."
 
