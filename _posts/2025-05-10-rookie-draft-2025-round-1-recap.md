@@ -62,7 +62,7 @@ The Cobras seemed to have finally taken a step in 2024, finishing in second plac
 
 They will look to continue that trend with the help of Tet McMillan, whose draft stock puts him in heady company after being taken eighth overall by the Carolina Panthers. Busts with that kind of draft capital are few and far between, and McMillan is a player who has the potential to be a true WR1 in the NFL, with a Mike Evans-like/lite 6'4" frame and multiple 1300+ receiving yard seasons at the University of Arizona.
 
-"The Cobras are looking to surprise this year." said Cobras GM Jason Reese. Awkwardly pausing for a moment to side-ete Treylon Burks, he added: "With this guy, we feel we are filling a hole that has been missing for a long time. This year is our Tet year."
+"The Cobras are looking to surprise this year." said Cobras GM Jason Reese. Awkwardly pausing for a moment to side-eye Treylon Burks, he added: "With this guy, we feel we are filling a hole that has been missing for a long time. This year is our Tet year."
 
 ### 1.06 - Nottingham Bandits - WR Matthew Golden, Green Bay Packers
 
