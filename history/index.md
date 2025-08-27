@@ -15,6 +15,7 @@ published: true
 - [2021 records](#2021)
 - [2022 records](#2022)
 - [2023 records](#2023)
+- [2024 records](#2024)
 
 ## Winners
 
@@ -27,7 +28,8 @@ published: true
 **2020:** Oxford Seahawks  
 **2021:** Nottingham Bandits  
 **2022:** Oxford Pythons  
-**2023:** Wigan Wombats
+**2023:** Wigan Wombats  
+**2024:** Oxford Pythons
 
 ### Champions of the South*
 
@@ -52,7 +54,8 @@ published: true
 **2020:** Oxford Seahawks  
 **2021:** Oxford Pythons  
 **2022:** Oxford Pythons  
-**2023:** Andover Sandslashers
+**2023:** Andover Sandslashers  
+**2024:** Oxford Pythons
 
 ### Regular Season Midlands Division Winners
 
@@ -60,7 +63,8 @@ published: true
 **2020:** Coventry Eagles  
 **2021:** Coventry Eagles  
 **2022:** Flitwick Fireflies  
-**2023:** Derby Otters
+**2023:** Derby Otters  
+**2024:** Derby Otters
 
 ### Regular Season North Division Winners
 
@@ -71,14 +75,15 @@ published: true
 **2020:** Nottingham Bandits  
 **2021:** Lurgan Leopards  
 **2022:** Wigan Wombats  
-**2023:** Wigan Wombats
+**2023:** Wigan Wombats  
+**2024:** Wigan Wombats
 
 * [Divisional shakeup]({% post_url 2019-02-16-shocker-divisional-realignment-passed %}) changed division teams from 2019 onwards
 
 ### All-time Records
 
-**Most championships won:** 1  
-(Gateshead Spartans 2016, Derby Otters 2017, Coventry Eagles 2018, Irish Flyers 2019, Oxford Seahawks 2020, Nottingham Bandits 2021, Oxford Pythons 2022, Wigan Wombats 2023)  
+**Most championships won:** 2  
+(Oxford Pythons 2022 & 2024)  
 
 **Most division titles won:** 6  
 (Coventry Eagles, South, 2016, 2017 & 2018, Midlands 2019, 2020, 2021)  
@@ -241,3 +246,20 @@ Andover Sandslashers (W5-W16)
 
 **Most consecutive matchups lost:** 9  
 Gateshead Spartans (W2-W10)
+
+#### 2024
+
+**Most weekly points scored by one franchise:** 171.32  
+(Derby Otters, W15)
+
+**Most weekly points scored by one individual starter:** 51.88   
+(Josh Allen, Wigan Wombats, W14)
+
+**Fewest weekly points scored by one franchise:** 35.4  
+(Lurgan Leopards, W3)
+
+**Most consecutive matchups won:** 6  
+Oxford Pythons (W2-W7)
+
+**Most consecutive matchups lost:** 6  
+Flitwick Fireflies (W6-W11)
