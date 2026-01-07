@@ -16,6 +16,7 @@ published: true
 - [2022 records](#2022)
 - [2023 records](#2023)
 - [2024 records](#2024)
+- [2025 records](#2025)
 
 ## Winners
 
@@ -29,7 +30,8 @@ published: true
 **2021:** Nottingham Bandits  
 **2022:** Oxford Pythons  
 **2023:** Wigan Wombats  
-**2024:** Oxford Pythons
+**2024:** Oxford Pythons  
+**2025:** Andover Sandslashers  
 
 ### Champions of the South*
 
@@ -55,7 +57,8 @@ published: true
 **2021:** Oxford Pythons  
 **2022:** Oxford Pythons  
 **2023:** Andover Sandslashers  
-**2024:** Oxford Pythons
+**2024:** Oxford Pythons  
+**2025:** Andover Sandslashers
 
 ### Regular Season Midlands Division Winners
 
@@ -64,7 +67,8 @@ published: true
 **2021:** Coventry Eagles  
 **2022:** Flitwick Fireflies  
 **2023:** Derby Otters  
-**2024:** Derby Otters
+**2024:** Derby Otters  
+**2025:** Coventry Eagles  
 
 ### Regular Season North Division Winners
 
@@ -76,7 +80,8 @@ published: true
 **2021:** Lurgan Leopards  
 **2022:** Wigan Wombats  
 **2023:** Wigan Wombats  
-**2024:** Wigan Wombats
+**2024:** Wigan Wombats  
+**2025:** Lurgan Leopards  
 
 * [Divisional shakeup]({% post_url 2019-02-16-shocker-divisional-realignment-passed %}) changed division teams from 2019 onwards
 
@@ -85,10 +90,10 @@ published: true
 **Most championships won:** 2  
 (Oxford Pythons 2022 & 2024)  
 
-**Most division titles won:** 6  
-(Coventry Eagles, South, 2016, 2017 & 2018, Midlands 2019, 2020, 2021)  
+**Most division titles won:** 7  
+(Coventry Eagles, South, 2016, 2017 & 2018, Midlands 2019, 2020, 2021, 2025)  
 
-**Most playoff appearances:**  6  
+**Most playoff appearances:**  7  
 (Coventry Eagles)   
 
 **Most weekly points scored by one franchise:** 201.6  
@@ -263,3 +268,20 @@ Oxford Pythons (W2-W7)
 
 **Most consecutive matchups lost:** 6  
 Flitwick Fireflies (W6-W11)
+
+#### 2025
+
+**Most weekly points scored by one franchise:** 190.2  
+(Oxford Seahawks, W7)
+
+**Most weekly points scored by one individual starter:** 49.9   
+(Jahmyr Gibbs, Cymru Cobras, W12)
+
+**Fewest weekly points scored by one franchise:** 38.0  
+(Wigan Wombats, W7)
+
+**Most consecutive matchups won:** 6  
+Oxford Seahawks (W5-W10)
+
+**Most consecutive matchups lost:** 5  
+Nottingham Bandits (W8-W12), Gateshead Spartans (W3-W7)
